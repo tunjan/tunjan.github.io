@@ -1,0 +1,14 @@
+nav:
+
+- title: About
+  name: about
+  directory: home
+
+- title: Lifestyle
+  name: lifestyle
+  directory: about
+
+- title: Meta
+  name: meta
+  directory: home
+

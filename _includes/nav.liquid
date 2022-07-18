@@ -1,0 +1,18 @@
+{% if site.data.samplelist.nav[0] %}
+  <ul>
+    {% for item in site.data.samplelist.nav %}
+        {% if item.directory == page.title %}
+          <li>
+            <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+          </li>
+        {% endif %}
+    {% endfor %}
+    {% for item in site.data.samplelist.nav %}
+        {% if page.title == item.name %}
+          <li>
+            <a class="low "href="/src/{{ item.directory }}.html"> {{ item.directory }}</a>
+          </li>
+        {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}

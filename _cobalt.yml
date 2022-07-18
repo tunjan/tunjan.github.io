@@ -1,0 +1,12 @@
+include_drafts: false
+template_extensions:
+  - md
+  - liquid
+ignore:
+  - README.md
+  - "build/*"
+  - ".git/*"
+site:
+  title: title
+  description: discription
+  base_url: https://istrigo.github.io

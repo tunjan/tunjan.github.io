@@ -16,10 +16,8 @@ header > * {
 }
 
 header {
-  padding: 30px;
   font-size: 34px;
-  /* border-bottom: 1px solid #222; */
-  /* border-right: 1px solid #222; */
+  margin: 0px 30px 0px 0px;
   font-family: serif;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -27,33 +25,25 @@ header {
 }
 
 nav {
-  padding:30px 0px 0px 0px;
-  /* font-family: serif; */
-  float: left;
-}
-
-#border-left{
-  border-radius: 15px 50px 30px;
-  background: #73AD21;
-  padding: 20px;
-  width: 200px;
-  height: 150px;
+  margin: 0 0 30px;
 }
 
 nav ul {
-  display:inline-block;
+  padding: 0;
+  float: left;
+  margin: 0 45px 30px 0;
+}
+
+nav ul li {
   list-style-type: none;
-  border-left:2px solid #000;
-  border-radius: 3px;
-  padding-left: 10px;
-  /* list-style-type: none; */
+  /* white-space: pre; */
 }
 
 body { 
-  padding:0;
+  padding:30px;
   font-family:sans-serif;
   font-size:16px; 
-  text-align: left;
+  /* text-align: left; */
 }
 
 main {

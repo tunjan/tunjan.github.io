@@ -1,18 +1,38 @@
 {% if site.data.samplelist.nav[0] %}
+
+{% assign max_rank = 0 %}
+
+{% for item in site.data.samplelist.nav %} {% comment %} Calculate maximum rank {% endcomment %}
+  {% if page.title == item.name %}
+    {% assign max_rank = item.rank %}
+  {% endif %}
+{% endfor %}
+
+{% for i in (1..max_rank) %}
   <ul>
-    {% for item in site.data.samplelist.nav %}
-        {% if item.directory == page.title %}
+  {% for item in site.data.samplelist.nav %}
+        {% if item.rank == i and page.title == item.name %}
+          <li>
+            <a href="/src/{{ item.name }}.html"> <i>{{ item.name }}</i></a>
+          </li>
+        {% elsif item.rank == i %}
           <li>
             <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
           </li>
         {% endif %}
-    {% endfor %}
-    {% for item in site.data.samplelist.nav %}
-        {% if page.title == item.name %}
+
+  {% endfor %}       
+  </ul>
+{% endfor %}
+
+<ul>
+  {% for item in site.data.samplelist.nav %}
+        {% if page.title == item.directory %}
           <li>
-            <a class="low "href="/src/{{ item.directory }}.html"> {{ item.directory }}</a>
+            <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
           </li>
         {% endif %}
-    {% endfor %}
-  </ul>
+  {% endfor %}       
+</ul>
+
 {% endif %}

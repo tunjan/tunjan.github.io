@@ -1,14 +1,14 @@
 nav:
 
-- title: About
-  name: about
+- name: about
   directory: home
+  rank: 1
 
-- title: Lifestyle
-  name: lifestyle
+- name: lifestyle
   directory: about
+  rank: 2
 
-- title: Meta
-  name: meta
+- name: meta
   directory: home
+  rank: 1
 

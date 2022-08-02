@@ -10,9 +10,16 @@ body > *, body > * > *, main figure > *, main figure > div > *, main p {
   margin-bottom: 30px;
 }
 
+h1 {
+  font-size: 30px;
+}
+
 header > * {
-  background: #000;
+  background-color: #000;
   color: #FFF;
+  border-radius: 4px;
+  padding: 2px 4px;
+
 }
 
 header {
@@ -25,29 +32,39 @@ header {
 }
 
 nav {
-  margin: 0 0 30px;
-}
+  font-family: "sans-serif";
+  font-size: 16px;
+ }
 
 nav ul {
   padding: 0;
   float: left;
-  margin: 0 45px 30px 0;
+  margin: 0 30px 30px 0;
 }
 
 nav ul li {
   list-style-type: none;
+  padding: 4px;
   /* white-space: pre; */
 }
 
+main ul {
+  padding: 0px 0px 0px 30px;
+  /* list-style-type: circle; */
+} 
+
+main ol {
+  padding: 30px;
+} 
+
 body { 
   padding:30px;
-  font-family:sans-serif;
+  font-family:"sans-serif";
   font-size:16px; 
   /* text-align: left; */
 }
 
 main {
-  padding: 30px;
   max-width:624px;
   clear:both; 
   float: left;
@@ -56,15 +73,82 @@ main {
 footer { 
   line-height: 20px;
   clear:both;
-  padding:30px; 
+  padding:0px; 
+  font-family: sans-serif;
+  font-size: 16px;
 }
 
 footer hr { 
   margin-bottom: 15px;
 }
 
-li:hover {
-  /* font-weight: bold; */
+/* a:before { */
+/*   content: '[' */
+/* } */
+/**/
+/* a:after { */
+/*   content: ']' */
+/* } */
+
+main > figure:first-child img:first-child { margin-left:-30px;max-width:calc(100vw - 15px);width:800px }
+main iframe { width:100%;height:480px }
+main img, main svg { max-width:100%;display:block;margin:0 0 30px }
+
+@font-face {
+  font-family: "et-book";
+  src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
+  src: url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: normal
 }
 
+@font-face {
+  font-family: "et-book";
+  src: url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot");
+  src: url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix") format("embedded-opentype"), url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"), url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype"), url("et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf") format("svg");
+  font-weight: normal;
+  font-style: italic
+}
 
+@font-face {
+  font-family: "et-book";
+  src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot");
+  src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg");
+  font-weight: bold;
+  font-style: normal
+}
+
+@font-face {
+  font-family: "edu";
+  src: url("edu/eduRegular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "macondo";
+  src: url("macondo/Macondo-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "stardos";
+  src: url("stardos/regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+main a:hover {
+  background-color: #000;
+  color: #FFF;
+  border-radius: 2px;
+  padding: 2px 4px;
+}
+
+a.selected {
+  background-color: #FFF;
+  color: #000;
+  border-radius: 4px;
+  padding: 2px 4px;
+  border: 2px solid #000
+}

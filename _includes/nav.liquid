@@ -5,6 +5,7 @@
 {%- for item in site.data.samplelist.nav -%} {% comment %} Calculate maximum rank {% endcomment -%}
   {%- if page.title == item.name -%}
     {%- assign max_rank = item.rank -%}
+    {%- assign root = item.directory -%}
   {%- endif -%}
 {%- endfor -%}
 
@@ -13,15 +14,17 @@
   {%- for item in site.data.samplelist.nav -%}
         {%- if item.rank == i and page.title == item.name -%}
           <li>
-            <a href="/src/{{ item.name }}.html"> <i>{{ item.name }}</i></a>
+            <a class="selected" href="/src/{{ item.name }}.html">{{ item.name }}</a>
           </li>
-        {%- elsif item.rank == i %}
+        {%- elsif item.rank == i-%}
           <li>
             <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
           </li>
+
         {%- endif -%}
   {%- endfor -%}       
   </ul>
+  
 {%- endfor -%}
 
 <ul>

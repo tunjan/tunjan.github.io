@@ -4,11 +4,38 @@ nav:
   directory: home
   rank: 1
 
+- name: projects
+  directory: home
+  rank: 1
+
+- name: research
+  directory: home
+  rank: 1
+
 - name: lifestyle
   directory: about
   rank: 2
 
 - name: meta
-  directory: home
-  rank: 1
+  directory: about
+  rank: 2
 
+- name: health
+  directory: research
+  rank: 2
+
+- name: writing
+  directory: projects
+  rank: 2
+
+- name: rules
+  directory: lifestyle
+  rank: 3
+
+- name: nutrition
+  directory: health
+  rank: 3
+
+- name: cooking
+  directory: lifestyle
+  rank: 3

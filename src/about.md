@@ -8,3 +8,5 @@ is_draft: false
 
   Tunjan is the name I have used for this website, it allows me to detach from the self-ego which comes by becoming identified with past experiences.
   It is a Japanese word inverted, meaning "simple" and "essential". Principles which I pursue in life.
+
+ ![Tacos](/media/torta.jpg)

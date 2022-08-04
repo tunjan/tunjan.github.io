@@ -20,7 +20,8 @@ is_draft: false
   Learning to live with less is one of the principles guiding my decisions in life. Reflecting on the number of things I owned after being away from home,
   I became aware that the more things I had the more things I needed. And in turn, the less time I had to reflect on substantial matters of life. The realization was that by consuming, one learns to avoid the pain of thinking deep thoughts, so the mind is always occupied with looking for the next product or expecting the next adverstisement to capture one's attention.
 
-_"A man is rich in proportion to the number of things he can afford to let alone" - Henry David Thoreau, Walden_
+<q>A man is rich in proportion to the number of things he can afford to let alone</q>
+<cite>Henry David Thoreau, Walden</cite>
 
 ## Sociality
 

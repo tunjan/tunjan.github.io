@@ -23,7 +23,7 @@ I always try to use as few tools as possible when creating anything. It helps me
 - Shears (Stainless steel)
 - Food chopper
 
-<a class='url' href="https://grimgrains.com/site/tools.html">GrimGrains Tools</a>
+<a href="https://grimgrains.com/site/tools.html" target='_blank'>GrimGrains Tools</a>
 
 # Pantry
 
@@ -105,14 +105,14 @@ I always try to use as few tools as possible when creating anything. It helps me
 
 # Dictionary
 
-- mince: to cut into small pieces
-- dice: to cut into small cubes
-- sauté: to fry (food, such as small pieces of meat or vegetables) in a small amount of fat.
-- simmer: to cook slowly in a liquid just below the boiling point
+- **Mince**: to cut into small pieces
+- **Dice**: to cut into small cubes
+- **Sauté**: to fry (food, such as small pieces of meat or vegetables) in a small amount of fat.
+- **Simmer**: to cook slowly in a liquid just below the boiling point
 
 # References
   
-[[GrimGrains](https://grimgrains.com/)]
-[[Vegan health](https://veganhealth.org/)]
-[[Sprouting](https://grimgrains.com/site/sprouting.html)]
+[GrimGrains target](https://grimgrains.com/)
+[Vegan health](https://veganhealth.org/)
+[Sprouting](https://grimgrains.com/site/sprouting.html)
 

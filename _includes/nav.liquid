@@ -1,40 +1,70 @@
 {%- if site.data.samplelist.nav[0] -%}
 
-{%- assign max_rank = 0 -%}
+{%- assign maxRank = 0 -%}
+{%- assign lowRank = 0 -%}
+{%- assign rootDirectory = 0 -%}
+{%- assign pageRoot = 0 -%}
 
 {%- for item in site.data.samplelist.nav -%} {% comment %} Calculate maximum rank {% endcomment -%}
   {%- if page.title == item.name -%}
-    {%- assign max_rank = item.rank -%}
-    {%- assign root = item.directory -%}
+    {%- assign maxRank = item.rank -%}
+    {%- assign lowRank = maxRank | minus: 1 -%}
+    {%- assign pageRoot = item.directory -%}
   {%- endif -%}
 {%- endfor -%}
 
-{%- for i in (1..max_rank) -%}
-  <ul>
-  {%- for item in site.data.samplelist.nav -%}
-        {%- if item.rank == i and page.title == item.name -%}
-          <li>
-            <a class="selected" href="/src/{{ item.name }}.html">{{ item.name }}</a>
-          </li>
-        {%- elsif item.rank == i-%}
-          <li>
-            <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
-          </li>
-
-        {%- endif -%}
-  {%- endfor -%}       
-  </ul>
-  
+{%- for item in site.data.samplelist.nav -%}
+  {%- if item.name == pageRoot -%}
+    {%- assign rootDirectory = item.directory -%}
+  {%- endif -%}
 {%- endfor -%}
 
-<ul>
+{%- if maxRank == 1 -%} {% comment %} Avoid generating invisible <ul> in rank 1  {% endcomment -%}
+  {%- assign lowRank = maxRank -%}
+{%- endif -%}
+
+{%- if maxRank > 0 -%} {% comment %} Avoid generating invisible <ul> in rank 0  {% endcomment -%}
+{%- for rank in (lowRank..maxRank) -%}
+  <ul>
   {%- for item in site.data.samplelist.nav -%}
-        {%- if page.title == item.directory -%}
-          <li>
-            <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
-          </li>
-        {%- endif -%}
+    {%- if item.rank == rank -%}
+      {%- if page.title == item.name -%} {% comment %} If it is the current page  {% endcomment -%}
+        <li>
+          <a class="selected" href="/src/{{ item.name }}.html">{{ item.name }}</a>
+        </li>
+      {%- elsif item.directory == pageRoot -%}  {% comment %} If other pages have the same root directory {% endcomment -%}
+        <li>
+          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+        </li>
+      {%- elsif item.name == pageRoot -%} {% comment %} prints the root directory {% endcomment -%}
+        <li>
+          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+        </li>
+      {%- elsif item.directory == rootDirectory -%} {% comment %} prints the directories which have the same directory as the rootDirectory {% endcomment -%}
+        <li>
+          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+        </li>
+      {%- endif -%}
+    {%- endif -%}
   {%- endfor -%}       
-</ul>
+  </ul>
+{%- endfor -%}
+{%- endif -%}
+
+{%- for item in site.data.samplelist.nav -%}
+  {%- if item.rank > maxRank -%}
+    <ul>
+    {%- for item in site.data.samplelist.nav -%}
+      {%- if page.title == item.directory -%}
+         <li>
+          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+        </li>
+      {%- endif -%}
+    {%- endfor -%}       
+    </ul>
+  {% break %}
+  {% endif -%}
+{%- endfor -%}
 
 {% endif -%}
+

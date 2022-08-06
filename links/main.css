@@ -18,8 +18,8 @@ body > *, body > * > *, main figure > *, main figure > div > *, main p {
 }
 
 header > * {
-  background-color: #000;
-  color: #FFF;
+  background-color: #FFF;
+  color: #000;
   border-radius: 4px;
   padding: 2px 4px;
 }
@@ -48,19 +48,27 @@ nav ul li {
   list-style-type: none;
   padding: 4px;
 }
+nav ul li:hover {
+  list-style-type: "\0203A"
+}
 
 nav a.selected {
   background-color: #FFF;
   color: #000;
   border-radius: 4px;
   padding: 2px 4px;
-  border: 2px solid #000
+  border: 1px solid #000
 }
 
 main {
   max-width:624px;
   clear:both; 
   float: left;
+}
+
+main #ToC {
+  list-style-type: decimal-leading-zero;
+  text-decoration: underline;
 }
 
 main ul {
@@ -95,16 +103,20 @@ main cite:before {
   content:"— " 
 }
 
+#ToC a:after { content:"" }
+#ToC a:before { content:"" }
 main a:before { content:"{" }
 main a:after { content:"}" }
-main a[target="_blank"]:before { content:"[" }
-main a[target="_blank"]:after { content:"]" }
+main a[href^="https://"]::before {
+  content: "[";
+}
+main a[href^="https://"]::after {
+  content: "]";
+}
 
 main a:hover {
   background-color: #000;
   color: #FFF;
-  border-radius: 2px;
-  padding: 2px 4px;
 }
 
 footer { 

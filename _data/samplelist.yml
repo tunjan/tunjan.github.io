@@ -39,3 +39,7 @@ nav:
 - name: cooking
   directory: lifestyle
   rank: 3
+
+- name: index
+  directory: meta
+  rank: 3

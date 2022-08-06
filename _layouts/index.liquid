@@ -4,9 +4,9 @@
       {% include "head.liquid" %}
     </head>
     <body>
-      <header>
-        {% include "header.liquid" %}
-      </header>
+      {% comment %} <header> {% endcomment %}
+      {% comment %}   {% include "header.liquid" %} {% endcomment %}
+      {% comment %} </header> {% endcomment %}
       <main>
         {{ page.content }}
       </main>

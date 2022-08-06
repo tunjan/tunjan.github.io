@@ -4,9 +4,9 @@ published_date: "2022-08-02 16:25:07 +0000"
 layout: default.liquid
 is_draft: false
 ---
-# Essential Tools
+## Essential Tools
 
-I always try to use as few tools as possible when creating anything. It helps me save time in organization and cleaning, in addition restricting yourself to a few, common things lets your imagination develop.
+I always try to use as [few](./lifestyle.html) tools as possible when creating anything. It helps me save time in organization and cleaning, in addition restricting yourself to a few, common things lets your imagination develop.
 
 - Frying pan (Non-stick, cast iron)
 - Saucepan
@@ -25,9 +25,9 @@ I always try to use as few tools as possible when creating anything. It helps me
 
 <a href="https://grimgrains.com/site/tools.html" target='_blank'>GrimGrains Tools</a>
 
-# Pantry
+## Pantry
 
-## Legumes
+### Legumes
 
   - Peanuts
   - Soy beans
@@ -38,7 +38,7 @@ I always try to use as few tools as possible when creating anything. It helps me
   - Tempeh
   - Quinoa
 
-## Vegetables
+### Vegetables
 
   - Carrots
   - Potatoes
@@ -60,7 +60,7 @@ I always try to use as few tools as possible when creating anything. It helps me
   - Vegetable broth
   - Celery
 
-## Nuts & seeds
+### Nuts & seeds
 
   - Walnuts
   - Chia
@@ -70,7 +70,7 @@ I always try to use as few tools as possible when creating anything. It helps me
   - Sunflower seeds
   - Tahini (sesame seeds)
 
-## Fruit
+### Fruit
 
   - Pear
   - Banana
@@ -81,7 +81,7 @@ I always try to use as few tools as possible when creating anything. It helps me
   - Cranberries
   - Strawberries
 
-## Grains (whole)
+### Grains (whole)
 
   - Brown rice
   - Basmati rice
@@ -90,7 +90,7 @@ I always try to use as few tools as possible when creating anything. It helps me
   - Spelt
   - Oats
 
-## Miscelaneous
+### Miscelaneous
 
   - Extra virgin olive oil
   - Sesame oil
@@ -103,14 +103,14 @@ I always try to use as few tools as possible when creating anything. It helps me
   - Smoked paprika
   - Cumin
 
-# Dictionary
+## Dictionary
 
 - **Mince**: to cut into small pieces
 - **Dice**: to cut into small cubes
 - **Sauté**: to fry (food, such as small pieces of meat or vegetables) in a small amount of fat.
 - **Simmer**: to cook slowly in a liquid just below the boiling point
 
-# References
+## References
   
 [GrimGrains target](https://grimgrains.com/)
 [Vegan health](https://veganhealth.org/)

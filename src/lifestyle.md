@@ -4,9 +4,6 @@ published_date: "2022-07-18 08:35:00 +0000"
 layout: default.liquid
 is_draft: false
 ---
-# How I live
-
-  Notes on my lifestyle and principles I apply.
 
 ## Nutrition
 

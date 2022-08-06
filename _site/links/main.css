@@ -8,29 +8,46 @@
 
 body { 
   padding:30px;
-  font-family:"sans-serif";
+  font-family: sans-serif;
   font-size:16px; 
-  /* text-align: left; */
+  text-align: left;
 }
 
 body > *, body > * > *, main figure > *, main figure > div > *, main p {
   margin-bottom: 30px;
 }
 
-header > * {
-  background-color: #FFF;
-  color: #000;
-  border-radius: 4px;
-  padding: 2px 4px;
-}
-
 header {
-  font-size: 34px;
+  font-size: 30px;
   margin: 0px 30px 0px 0px;
-  font-family: serif;
-  text-transform: uppercase;
+  font-family: et-book;
   letter-spacing: 2px;
   float:left;
+}
+
+header input[id="submit"]{
+  display:none; 
+}
+
+header form input
+{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  caret-color: transparent;
+  position: absolute;
+  top: 30px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  line-height: 16px;
+  padding: 8px 40px 8px 0px;
+  width: 120px;
+  font-size: 12px;
+  right: 45px;
+  border-bottom: 1.5px solid black;
+  margin-top: -2px;
 }
 
 nav {
@@ -48,16 +65,15 @@ nav ul li {
   list-style-type: none;
   padding: 4px;
 }
+
 nav ul li:hover {
   list-style-type: "\0203A"
 }
 
-nav a.selected {
-  background-color: #FFF;
-  color: #000;
-  border-radius: 4px;
+nav ul li a.selected {
+  border-radius: 0px;
   padding: 2px 4px;
-  border: 1px solid #000
+  border: 2px solid #000
 }
 
 main {
@@ -66,22 +82,41 @@ main {
   float: left;
 }
 
-main #ToC {
+main code {
+  overflow: auto;
+  background: #efefef;
+  padding: 10px;
+  font-size: 80%;
+  margin-bottom: 30px;
+}
+
+main blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+}
+
+main article {
+  border-left: 5px solid #efefef;
+  padding-left: 25px;
+  clear: both;
+}
+
+main [id="ToC"] ol li {
   list-style-type: decimal-leading-zero;
   text-decoration: underline;
 }
 
 main ul {
   padding: 0px 0px 0px 30px;
-  /* list-style-type: circle; */
 } 
 
 main h1 {
-  font-size: 30px;
+  font-size: 25px;
 }
 
 main ol {
-  padding: 30px;
+  padding: 0px 0px 0px 30px;
 } 
 
 main q {
@@ -130,14 +165,6 @@ footer {
 footer hr { 
   margin-bottom: 15px;
 }
-
-/* a:before { */
-/*   content: '[' */
-/* } */
-/**/
-/* a:after { */
-/*   content: ']' */
-/* } */
 
 main > figure:first-child img:first-child { margin-left:-30px;max-width:calc(100vw - 15px);width:800px }
 main iframe { width:100%;height:480px }

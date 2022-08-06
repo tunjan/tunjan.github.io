@@ -1,11 +1,11 @@
-{%- if site.data.samplelist.nav[0] -%}
+{%- if site.data.structure.nav[0] -%}
 
 {%- assign maxRank = 0 -%}
 {%- assign lowRank = 0 -%}
 {%- assign rootDirectory = 0 -%}
 {%- assign pageRoot = 0 -%}
 
-{%- for item in site.data.samplelist.nav -%} {% comment %} Calculate maximum rank {% endcomment -%}
+{%- for item in site.data.structure.nav -%} {% comment %} Calculate maximum rank {% endcomment -%}
   {%- if page.title == item.name -%}
     {%- assign maxRank = item.rank -%}
     {%- assign lowRank = maxRank | minus: 1 -%}
@@ -13,7 +13,7 @@
   {%- endif -%}
 {%- endfor -%}
 
-{%- for item in site.data.samplelist.nav -%}
+{%- for item in site.data.structure.nav -%}
   {%- if item.name == pageRoot -%}
     {%- assign rootDirectory = item.directory -%}
   {%- endif -%}
@@ -26,7 +26,7 @@
 {%- if maxRank > 0 -%} {% comment %} Avoid generating invisible <ul> in rank 0  {% endcomment -%}
 {%- for rank in (lowRank..maxRank) -%}
   <ul>
-  {%- for item in site.data.samplelist.nav -%}
+  {%- for item in site.data.structure.nav -%}
     {%- if item.rank == rank -%}
       {%- if page.title == item.name -%} {% comment %} If it is the current page  {% endcomment -%}
         <li>
@@ -51,10 +51,10 @@
 {%- endfor -%}
 {%- endif -%}
 
-{%- for item in site.data.samplelist.nav -%}
+{%- for item in site.data.structure.nav -%}
   {%- if item.rank > maxRank -%}
     <ul>
-    {%- for item in site.data.samplelist.nav -%}
+    {%- for item in site.data.structure.nav -%}
       {%- if page.title == item.directory -%}
          <li>
           <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>

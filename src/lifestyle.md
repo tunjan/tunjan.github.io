@@ -10,7 +10,7 @@ is_draft: false
   Not long since adopting a vegan diet, I noticed much more sustained levels of energy and increased lean body mass, I felt my body working as an interrelated organism which given the right amounts and type of fuel, performs at the highest level. 
   Thus, I have aligned my food intake with nature demands, only eating as much as suffices my body for good health, and consuming everything from fresh produce. Also, avoid purchasing food which comes in plastic bags unless there is no other choice.
 
-  The decision regarding transitioning into a vegan diet has to do mainly with moral insights after watching [[**Dominion**]](watchdominion.org), and the desire to avoid [harmful actions](/src/philosophy.html). This realization could be said to have ended my blind pursuit of societal norms, and to become a more informed and critical individual about societal matters.
+  The decision regarding transitioning into a vegan diet has to do mainly with moral insights after watching [Dominion](https://watchdominion.org), and the desire to avoid [harmful actions](/src/philosophy.html). This realization could be said to have ended my blind pursuit of societal norms, and to become a more informed and critical individual about societal matters.
 
 ## Materialism
 

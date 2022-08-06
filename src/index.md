@@ -3,7 +3,9 @@ title: index
 layout: default.liquid
 ---
 <ul>
-{% for item in site.data.samplelist.nav %}
-  [{{item.name}}](./{{item.name}}.html)
+{% for item in site.data.structure.nav %}
+<li>
+  <a href="src/{{ item.name }}.html">{{item.name}}</a>
+</li>
 {% endfor %}
 </ul>

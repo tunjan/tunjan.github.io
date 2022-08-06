@@ -1,1 +1,20 @@
 <a href="/src/home.html">tunjan</a>
+
+<form id="form">
+  <input type="search" id="search" autocomplete="off">
+  <input type="submit" id="submit">
+</form>
+
+<script>
+  const f = document.getElementById('form');
+  const s = document.getElementById('search');
+  const site = '/src/';
+
+  function submitted(event) {
+        event.preventDefault();
+        const url = site + s.value + '.html';
+        const win = window.open(url, '_self');
+        win.focus();
+      }
+  f.addEventListener('submit', submitted);
+</script>

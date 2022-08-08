@@ -36,7 +36,6 @@ header form input
   border-right: none;
   outline: none;
   caret-color: transparent;
-  position: absolute;
   top: 30px;
   border-top: none;
   border-left: none;
@@ -83,9 +82,9 @@ main {
 }
 
 main code {
-  overflow: auto;
   background: #efefef;
-  padding: 10px;
+  border-radius: 1px;
+  padding: 1.5px;
   font-size: 80%;
   margin-bottom: 30px;
 }
@@ -192,26 +191,6 @@ main img, main svg { max-width:100%;display:block;margin:0 0 30px }
   src: url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg");
   font-weight: bold;
   font-style: normal
-}
-
-@font-face {
-  font-family: "edu";
-  src: url("edu/eduRegular.ttf");
-  font-weight: normal;
-  font-style: normal;
-}
-@font-face {
-  font-family: "macondo";
-  src: url("macondo/Macondo-Regular.ttf");
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: "stardos";
-  src: url("stardos/regular.ttf");
-  font-weight: normal;
-  font-style: normal;
 }
 
 

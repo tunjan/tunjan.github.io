@@ -43,3 +43,31 @@ nav:
 - name: index
   directory: meta
   rank: 3
+
+- name: inventory
+  directory: about
+  rank: 2
+
+- name: workstation
+  directory: inventory
+  rank: 3
+
+- name: travel
+  directory: about
+  rank: 2
+
+- name: quotes
+  directory: research
+  rank: 2
+
+- name: now 
+  directory: about
+  rank: 2
+
+- name: javascript
+  directory: research
+  rank: 2
+
+- name: compulsions
+  directory: lifestyle
+  rank: 3

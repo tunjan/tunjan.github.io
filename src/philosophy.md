@@ -3,6 +3,14 @@ title: philosophy
 layout: default.liquid
 is_draft: true
 ---
-# Phylosophical notes!
+## Terms
 
-Welcome to the first post ever on cobalt.rs!
+- Wisdom
+- Virtue
+- Eudaimonia
+
+## Stoicism
+
+## Virtue
+
+

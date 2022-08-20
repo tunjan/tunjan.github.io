@@ -5,12 +5,11 @@ is_draft: true
 ---
 ## Terms
 
-- Wisdom
+- Wisdom: **To know how to live**.
 - Virtue
 - Eudaimonia
 
 ## Stoicism
 
 ## Virtue
-
 

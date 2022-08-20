@@ -6,7 +6,6 @@
 <link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="rss.xml">
 <link rel="icon" type="image/png" href="/media/services/icon.jpg"/>
 <link rel="icon" type="image/x-icon" href="/media/services/favicon.ico"/>
-<script src="/links/search.js"></script>
 <meta charset="utf-8">
 <title>Tunjan ‒ commands</title>
    
@@ -35,29 +34,44 @@
 </script>
 
       </header>
-     <nav><ul></ul>
-  </nav>
+     <nav><ul><li>
+          <a href="/src/workstation.html"> workstation</a>
+        </li></ul><ul><li>
+          <a class="selected" href="/src/commands.html">commands</a>
+        </li><li>
+          <a href="/src/flashcards.html"> flashcards</a>
+        </li></ul></nav>
      <main>
      <div id="ToC"></div>
-        <h2>Vim</h2>
+        <p>Commands I find myself using time and time again. Or used once, but were so difficult to get that I thought it worth noting.</p>
+<h2>Vim</h2>
 <ul>
 <li>Search &amp; Replace: <code>%s/&lt;search_term&gt;/&lt;replace_term&gt;/g</code> </li>
 </ul>
 <h2>System</h2>
 <ul>
-<li><strong>Hardware Info</strong>: <code> $ lshw -short</code></li>
-<li><strong>Device model</strong>: <code>$ sudo dmidecode -s system-product-name</code></li>
+<li><strong>Hardware Info</strong>: <code>lshw -short</code></li>
+<li><strong>Device model</strong>: <code>sudo dmidecode -s system-product-name</code></li>
+<li><strong>Battery status</strong>:  <code>upower -e;  upower -i /org/freedesktop/UPower/devices/battery_BAT1</code></li>
 </ul>
 <h2>Git</h2>
 <ul>
-<li><strong>Clone branch</strong>: ```Clone specific branch `git clone --branch <branch name> <url>````</li>
+<li><strong>Clone branch</strong>: <code>git clone --branch &lt;branch name&gt; &lt;url&gt;</code> </li>
+</ul>
+<h2>Unicode</h2>
+<ul>
+<li>U+2014 -&gt; —</li>
+</ul>
+<h2>Miscelaneous</h2>
+<ul>
+<li><strong>Download website</strong>: <code>wget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off https://example.com</code></li>
 </ul>
 
       </main>
       <footer><hr />
-<span style='float:right'>Built on Mon Aug  8 22:45:12 2022<a href='https://github.com/tunjan'> [Github]</a>
+<span style='float:right'>Built on Sat Aug 20 07:48:20 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
 <br/>
-</span> Tunjan © 2022 — <a href='https://github.com/istrigo'>BY-NC-SA 4.0</a>
+</span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
 </footer>
     <script src="/links/toc.js"></script>
     </body>

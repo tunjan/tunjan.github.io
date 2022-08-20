@@ -7,7 +7,7 @@ is_draft: false
 
 ## Garden
 
-This site serves the purpose of growing a garden of ideas, knowledge and interests. Making a few but deliberate improvements over time to each page, so it eventually grows like a tree.
+This site serves the purpose of growing a garden of ideas, knowledge and interests. Making a few but deliberate improvements over time to each page.
 
 The implementation of the website aims to make addition and edition of content as easy and systematic as possible. Thus, avoiding putting off its growth and daily refinement.
 

@@ -43,7 +43,22 @@ is_draft: false
  - In place of cumin use herbs de Provence
  - Serve with bread 
 
-# Lexicon
+## Chickpea Ratatouille
+
+### Ingredients
+  
+  - 2 tbps **olive oil**
+  - 2 Bell Peppers (diced)
+  - 1 **onion** (diced)
+  - 4 cloves **garlic** (minced)
+  - 500g cherry **tomatoes** (diced)
+  - 1 eggplant (diced)
+  - 2 medium zucchini (diced) 
+  - 2 tsp **herbs de Provence**
+  - 3 cups cooked **Chickpeas**
+
+
+## Lexicon
 
 g = grams
 m = minced
@@ -53,6 +68,7 @@ hf = handfuls
 tsp = teaspoon
 tbsp = tablespoon
 
-# References
+## References
 [Lentil soup](https://simple-veganista.com/hearty-lentil-soup/print/29555/)
+[Chickpea](https://simple-veganista.com/chickpea-ratatouille-nicoise/#tasty-recipes-8822-jump-target)
 

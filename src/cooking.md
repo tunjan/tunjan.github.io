@@ -4,9 +4,9 @@ published_date: "2022-08-02 16:25:07 +0000"
 layout: default.liquid
 is_draft: false
 ---
-## Essential Tools
+## Tools
 
-I always try to use as [few](./lifestyle.html) tools as possible when creating anything. It helps me save time in organization and cleaning, in addition restricting yourself to a few, common things lets your imagination develop.
+I always try to use as [few](./lifestyle.html) tools as possible when creating anything. It helps me save time in organization and cleaning. In addition, restricting yourself to a few, common tools forces your imagination to come up with new ways to do things.
 
 - Frying pan (Non-stick, cast iron)
 - Saucepan
@@ -27,7 +27,8 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
 
 ## Pantry
 
-### Legumes
+<details>
+<summary> Legumes </summary>
 
   - Peanuts
   - Soy beans
@@ -38,7 +39,10 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Tempeh
   - Quinoa
 
-### Vegetables
+</details>
+
+<details>
+<summary> Veggies </summary>
 
   - Carrots
   - Potatoes
@@ -60,7 +64,10 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Vegetable broth
   - Celery
 
-### Nuts & seeds
+</details>
+
+<details>
+<summary> Nuts & Seeds </summary>
 
   - Walnuts
   - Chia
@@ -70,7 +77,10 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Sunflower seeds
   - Tahini (sesame seeds)
 
-### Fruit
+  </details>
+
+<details>
+<summary> Fruits </summary>
 
   - Pear
   - Banana
@@ -80,8 +90,13 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Cherry
   - Cranberries
   - Strawberries
+  - Grapes
+  - Perssimon
 
-### Grains (whole)
+  </details>
+
+<details>
+<summary> Grains </summary>
 
   - Brown rice
   - Basmati rice
@@ -90,7 +105,10 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Spelt
   - Oats
 
-### Miscelaneous
+  </details>
+
+<details>
+<summary> Miscelaneous </summary>
 
   - Extra virgin olive oil
   - Sesame oil
@@ -102,6 +120,8 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Provenzal Herbs
   - Smoked paprika
   - Cumin
+
+</details>
 
 ## Dictionary
 

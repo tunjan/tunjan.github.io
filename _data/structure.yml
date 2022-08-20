@@ -1,5 +1,4 @@
 nav:
-
 - name: about
   directory: home
   rank: 1
@@ -71,3 +70,31 @@ nav:
 - name: compulsions
   directory: lifestyle
   rank: 3
+
+- name: habits
+  directory: lifestyle
+  rank: 3
+
+- name: philosophy 
+  directory: research
+  rank: 2
+
+- name: ethics
+  directory: philosophy
+  rank: 3
+
+- name: logs
+  directory: lifestyle
+  rank: 3
+
+- name: on-fear
+  directory: writing
+  rank: 3
+
+- name: commands
+  directory: inventory
+  rank: 4
+
+- name: flashcards
+  directory: inventory
+  rank: 4

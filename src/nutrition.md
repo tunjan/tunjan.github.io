@@ -42,6 +42,8 @@ is_draft: false
   - Eat as many colors as possible.
   - Eat only as much as suffices for hunger & good health. 
   - Aim to fast for 12 hours each day.
+  - Avoid drinking tea or coffee with meals
+  - Add vitamin C to foods rich in iron.
 
 ## Meal planning
 
@@ -49,6 +51,66 @@ is_draft: false
   and buy just enough to avoid wasting food. This is most necesary for vegetables, as they perish quicker than other edibles.
   Look for vegan recipes in resources aimed toward budget meals. You'll save some money and time looking for extravagant and imported provisions.
   * Remember to place here my meal plan (or make it now?).
+
+## Nutrients
+
+<details>
+<summary> Iron </summary>
+
+- Daily intake 8.7 mg
+
+- Sources: lentils, chickpeas, beans, tofu, cashew, chia, linseed, hempseed, kale, quinoa.
+
+- More iron is absorbed when your body needs more iron.
+
+- Tea & cofee inhibit Iron absortion.
+
+- Vitamin C increases iron absorption.
+
+- Sources of vitamin C: pepper, broccoli, cabbage, Brussels sprouts, kiwifruit, oranges, strawberries, pineapple, grapefruit and orange juice.
+
+</details>
+
+ <details>
+<summary> Vitamin B12 </summary> 
+
+- Produced by micro-organisms, not plants
+- Supplements are the only proven reliable solution.
+- 1000 mcg supplement twice a week.
+- Cyanocobalamin is the most stable.
+- Cyanocobalamin converts into methylcobalamin & adenosylcobalamin.
+
+</details>
+
+ <details>
+<summary> Protein </summary> 
+
+- Dily intake 1g per kg of body weight.
+- Plants can provide all the [essential amino acids](https://en.wikipedia.org/wiki/Essential_amino_acid)
+- Sources: beans, lentils, chickpeas, tofu, soya alternatives to milk and yoghurt, or peanuts.
+
+</details>
+
+ <details>
+<summary> Omega 3/6 </summary> 
+
+- Essential (not produced by the body): alpha-linolenic acid (ALA), linoleic acid (LA)
+- Sources of LA: hemp seeds, pumpkin seeds, sunflower seeds, walnuts and soya spread.
+- Sources of ALA: chia seeds, ground linseed, hemp seeds, walnuts.
+- Use rapeseed oil.
+- Daily intake: 1 tbsp of chia seeds/ground linseed & 2 tbsp hemp seeds/6 walnut halves. 
+- ALA is converted into EPA & DHA
+- Too much LA reduces the ALA to EPA & DHA conversion.
+- Vegans should eat double the recommended amount of ALA.
+
+</details>
+
+ <details>
+<summary> Omega 3/6 </summary> 
+
+</details>
+
+
   
 ## References 
 

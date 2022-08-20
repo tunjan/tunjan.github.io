@@ -9,6 +9,16 @@
       <meta charset="utf-8">
       <title>Welcome</title>
     </head>
+    <style>
+
+  main #logo {
+    display: inline-block;
+    top: 50vh;
+    left: 50vw;
+    width: 10vw;
+    height: 10vh;
+  }
+    </style>
     <body>
       <main>
         {{ page.content }}
@@ -17,4 +27,5 @@
         {% include "footer.liquid" %}
       </footer>
    </body>
+
 </html>

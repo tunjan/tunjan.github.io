@@ -13,7 +13,7 @@ layout: default.liquid
 - **Beyond Good & Evil**: Friedrich Nietzche
 - **Notebooks**: Leonardo Da Vinci
 - **The Wealth of Nations**: Adam Smith
-- **Time and free will**: Henry 
+- **Time and free will**: Henry David Thoreau
 - **Utopia**: Thomas More
 
 
@@ -27,4 +27,5 @@ layout: default.liquid
 - **The courage to be disliked**: Ichiro Kishimi
 - **The socratic method**
 - **On the shortness of life**: Seneca
-
+- **The Journals**: Henry David Thoreau 
+- **On the Shortness of life**: Seneca 

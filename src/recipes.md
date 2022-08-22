@@ -9,7 +9,10 @@ is_draft: false
   
 ## Lentil Soup
 
-### Ingredients
+
+<details>
+
+<summary> Ingredients </summary>
 
   - 2 tbps **olive oil**
   - 1 **onion** (diced)
@@ -28,7 +31,11 @@ is_draft: false
   - 1 **lemon**
   - 12 g **parsley**
 
-### Instructions
+  </details>
+
+<details>
+
+<summary> Instructions </summary>
 
  1. Heat olive oil in pot.  
  2. Add garlic, onion, carrots & celery. Sauté for 5 minutes.
@@ -41,7 +48,9 @@ is_draft: false
 
  - Potatoes can be replaced with sweet potatoes.
  - In place of cumin use herbs de Provence
- - Serve with bread 
+ - Serve with bread
+
+ </details>
 
 ## Chickpea Ratatouille
 
@@ -57,16 +66,15 @@ is_draft: false
   - 2 tsp **herbs de Provence**
   - 3 cups cooked **Chickpeas**
 
-
 ## Lexicon
 
-g = grams
-m = minced
-d = diced
-l = liter
-hf = handfuls
-tsp = teaspoon
-tbsp = tablespoon
+- g = grams
+- m = minced
+- d = diced
+- l = liter
+- hf = handfuls
+- tsp = teaspoon
+- tbsp = tablespoon
 
 ## References
 [Lentil soup](https://simple-veganista.com/hearty-lentil-soup/print/29555/)

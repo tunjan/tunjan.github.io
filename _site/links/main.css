@@ -6,22 +6,26 @@
   color: #000;
 }
 
+html {
+  font-size: 100%;
+}
+
 body { 
-  padding:30px;
+  padding:2em;
   font-family: sans-serif;
-  font-size:16px; 
+  font-size:1em; 
   text-align: left;
 }
 
 body > *, body > * > *, main figure > *, main figure > div > *, main p {
-  margin-bottom: 30px;
+  margin-bottom: 1em;
 }
 
 header {
-  font-size: 30px;
-  margin: 0px 30px 0px 0px;
+  font-size: 2em;
+  margin: 0 1em 0 0;
   font-family: et-book;
-  letter-spacing: 2px;
+  letter-spacing: 0.1em;
   float:left;
 }
 
@@ -36,61 +40,57 @@ header form input
   border-right: none;
   outline: none;
   caret-color: transparent;
-  top: 30px;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  line-height: 16px;
-  padding: 8px 40px 8px 0px;
-  width: 120px;
-  font-size: 12px;
-  right: 45px;
-  border-bottom: 1.5px solid black;
+  top: 1em;
+  line-height: 2em;
+  width: 8em;
+  font-size: 0.4em;
+  right: 2em;
+  border-bottom: 1px solid black;
   margin-top: -2px;
 }
 
 nav {
   font-family: "sans-serif";
-  font-size: 16px;
+  font-size: 1em;
  }
 
 nav ul {
   padding: 0;
   float: left;
-  margin: 0 30px 30px 0;
+  margin: 0 1.5em 1.5em 0;
 }
 
 nav ul li {
   list-style-type: none;
-  padding: 4px;
+  padding: 0.25em;
 }
 
 nav ul li:hover {
   list-style-type: "\0203A"
 }
 
-nav ul li a.selected {
+nav ul li a#selected {
   border-radius: 0px;
   padding: 2px 4px;
   border: 2px dashed #000
 }
 
 main {
-  max-width:624px;
+  max-width:40em;
   clear:both; 
   float: left;
 }
 
 main details summary {
-  margin-bottom: 30px;
+  margin-bottom: 1em;
 }
 
 main code {
   background: #efefef;
   border-radius: 1px;
   padding: 1.5px;
-  font-size: 80%;
-  margin-bottom: 30px;
+  font-size: 1em;
+  padding: 0.1em;
 }
 
 main blockquote {
@@ -105,35 +105,43 @@ main article {
   clear: both;
 }
 
-main [id="ToC"] ol li {
-  list-style-type: decimal-leading-zero;
+#ToC ol{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 1em;
+}
+
+#ToC ol li {
+  /* list-style-type: decimal-leading-zero; */
+  list-style-type: none;
   text-decoration: underline;
 }
 
-main ul {
-  padding: 0px 0px 0px 30px;
+main ul, ol {
+  padding: 0px 0px 0px 2em;
+  margin-bottom: 2em;
 } 
 
 main h1 {
   font-size: 25px;
 }
 
-main ol {
-  padding: 0px 0px 0px 30px;
-} 
+main h3{
+  margin-bottom: 2em;
+}
 
 main q {
   font-family: serif;
   font-style: italic;
   display: block;
-  max-width: 400px;
-  margin-bottom: 30px;
+  max-width: 20em;
+  margin-bottom: 2em;
 }
 
 main cite {
   display: block;
   clear: both;
-  margin-bottom: 30px;
+  margin-bottom: 2em;
 }
 
 
@@ -162,15 +170,13 @@ main iframe { width:100%;height:480px }
 main img, main svg { max-width:100%;display:block;margin:0 0 30px }
 
 footer { 
-  line-height: 20px;
+  line-height: 1.5em;
   clear:both;
-  padding:0px; 
   font-family: sans-serif;
-  font-size: 16px;
 }
 
 footer hr { 
-  margin-bottom: 15px;
+  margin-bottom: 1em;
 }
 
 @font-face {

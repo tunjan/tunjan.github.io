@@ -84,7 +84,7 @@ nav:
   rank: 3
 
 - name: logs
-  directory: lifestyle
+  directory: meta
   rank: 3
 
 - name: on-fear

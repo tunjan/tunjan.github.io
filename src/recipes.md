@@ -5,10 +5,7 @@ layout: default.liquid
 is_draft: false
 ---
 
-# Soups
-  
 ## Lentil Soup
-
 
 <details>
 
@@ -54,8 +51,11 @@ is_draft: false
 
 ## Chickpea Ratatouille
 
-### Ingredients
-  
+<details>
+
+<summary> Ingredients </summary>
+
+ 
   - 2 tbps **olive oil**
   - 2 Bell Peppers (diced)
   - 1 **onion** (diced)
@@ -65,6 +65,8 @@ is_draft: false
   - 2 medium zucchini (diced) 
   - 2 tsp **herbs de Provence**
   - 3 cups cooked **Chickpeas**
+
+</details>
 
 ## Lexicon
 

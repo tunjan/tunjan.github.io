@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../links/main.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="rss.xml">
+<link rel="icon" type="image/png" href="/media/services/icon.jpg"/>
+<link rel="icon" type="image/x-icon" href="/media/services/favicon.ico"/>
+<meta charset="utf-8">
+<title>Tunjan ‒ javascript</title>
+   
+    </head>
+    <body>
+      <header>
+        <a id=name href="home.html">tunjan</a>
+
+<form id="form">
+  <input type="search" id="search" autocomplete="off">
+  <input type="submit" id="submit">
+</form>
+
+<script>
+  const f = document.getElementById('form');
+  const s = document.getElementById('search');
+
+  function submitted(event) {
+        event.preventDefault();
+        const url = s.value + '.html';
+        const win = window.open(url, '_self');
+        win.focus();
+      }
+  f.addEventListener('submit', submitted);
+</script>
+
+      </header>
+     <nav><ul><li>
+          <a href="about.html"> about</a>
+        </li><li>
+          <a href="projects.html"> projects</a>
+        </li><li>
+          <a href="research.html"> <b>research</b></a>
+        </li></ul><ul><li>
+          <a href="health.html"> health</a>
+        </li><li>
+          <a href="quotes.html"> quotes</a>
+        </li><li>
+          <a id="selected" href="javascript.html">javascript</a>
+        </li><li>
+          <a href="philosophy.html"> philosophy</a>
+        </li><li>
+          <a href="mental-health.html"> mental-health</a>
+        </li></ul><ul></ul>
+  </nav>
+     <main>
+     <div id="ToC"></div>
+        <h2>Notes</h2>
+<ul>
+<li>
+<p>Use // comments.</p>
+</li>
+<li>
+<p>Inside ${} in a template literal, result will be computed and converted to a string.</p>
+</li>
+<li>
+<p>A fragment of code that produces a value is called an expression.</p>
+</li>
+<li>
+<p>The value of an empty binding is undefined.</p>
+</li>
+<li>
+<p>Functions do not follow top-to-bottom flow. They can be used in all the same scope.</p>
+</li>
+<li>
+<p>Extra arguments in functions get ignored. Arguments not passed get asigned 'undefined'.</p>
+</li>
+</ul>
+
+      </main>
+      <footer><hr />
+<span style='float:right'>Built on Tue Aug 23 18:22:57 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
+<br/>
+</span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
+</footer>
+    <script src="../links/toc.js"></script>
+    </body>
+</html>

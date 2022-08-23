@@ -13,12 +13,12 @@ These mental habits steal our time from the present, making us suffer in imagina
 
 ## Present
 
-- Eating fruit when bored or stressed.
 - Thinking about too future-distant decisions.
 - Touching parts of the face.
 
 ## Past
 
+- Eating fruit when bored or stressed.
 - Eating nails.
 - Using computer with no end in mind.
 - Checking phone.

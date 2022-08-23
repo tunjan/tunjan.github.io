@@ -98,3 +98,7 @@ nav:
 - name: flashcards
   directory: inventory
   rank: 4
+
+- name: mental-health
+  directory: research
+  rank: 2

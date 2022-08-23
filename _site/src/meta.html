@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="/links/main.css" type="text/css">
+<link rel="stylesheet" href="../links/main.css" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="rss.xml">
 <link rel="icon" type="image/png" href="/media/services/icon.jpg"/>
 <link rel="icon" type="image/x-icon" href="/media/services/favicon.ico"/>
@@ -12,7 +12,7 @@
     </head>
     <body>
       <header>
-        <a href="/src/home.html">tunjan</a>
+        <a id=name href="home.html">tunjan</a>
 
 <form id="form">
   <input type="search" id="search" autocomplete="off">
@@ -22,11 +22,10 @@
 <script>
   const f = document.getElementById('form');
   const s = document.getElementById('search');
-  const site = '/src/';
 
   function submitted(event) {
         event.preventDefault();
-        const url = site + s.value + '.html';
+        const url = s.value + '.html';
         const win = window.open(url, '_self');
         win.focus();
       }
@@ -35,25 +34,25 @@
 
       </header>
      <nav><ul><li>
-          <a href="/src/about.html"> <b>about</b></a>
+          <a href="about.html"> <b>about</b></a>
         </li><li>
-          <a href="/src/projects.html"> projects</a>
+          <a href="projects.html"> projects</a>
         </li><li>
-          <a href="/src/research.html"> research</a>
+          <a href="research.html"> research</a>
         </li></ul><ul><li>
-          <a href="/src/lifestyle.html"> lifestyle</a>
+          <a href="lifestyle.html"> lifestyle</a>
         </li><li>
-          <a id="selected" href="/src/meta.html">meta</a>
+          <a id="selected" href="meta.html">meta</a>
         </li><li>
-          <a href="/src/inventory.html"> inventory</a>
+          <a href="inventory.html"> inventory</a>
         </li><li>
-          <a href="/src/travel.html"> travel</a>
+          <a href="travel.html"> travel</a>
         </li><li>
-          <a href="/src/now.html"> now</a>
+          <a href="now.html"> now</a>
         </li></ul><ul><li>
-          <a href="/src/index.html"> index</a>
+          <a href="index.html"> index</a>
         </li><li>
-          <a href="/src/logs.html"> logs</a>
+          <a href="logs.html"> logs</a>
         </li></ul>
   </nav>
      <main>
@@ -62,10 +61,10 @@
 
       </main>
       <footer><hr />
-<span style='float:right'>Built on Mon Aug 22 11:36:30 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
+<span style='float:right'>Built on Tue Aug 23 16:45:35 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
 <br/>
 </span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
 </footer>
-    <script src="/links/toc.js"></script>
+    <script src="../links/toc.js"></script>
     </body>
 </html>

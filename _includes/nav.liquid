@@ -30,19 +30,19 @@
     {%- if item.rank == rank -%}
       {%- if page.title == item.name -%} {% comment %} If it is the current page  {% endcomment -%}
         <li>
-          <a id="selected" href="/src/{{ item.name }}.html">{{ item.name }}</a>
+          <a id="selected" href="{{ item.name }}.html">{{ item.name }}</a>
         </li>
       {%- elsif item.directory == pageRoot -%}  {% comment %} If other pages have the same root directory {% endcomment -%}
         <li>
-          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+          <a href="{{ item.name }}.html"> {{ item.name }}</a>
         </li>
       {%- elsif item.name == pageRoot -%} {% comment %} prints the root directory {% endcomment -%}
         <li>
-          <a href="/src/{{ item.name }}.html"> <b>{{ item.name }}</b></a>
+          <a href="{{ item.name }}.html"> <b>{{ item.name }}</b></a>
         </li>
       {%- elsif item.directory == rootDirectory -%} {% comment %} prints the directories which have the same directory as the rootDirectory {% endcomment -%}
         <li>
-          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+          <a href="{{ item.name }}.html"> {{ item.name }}</a>
         </li>
       {%- endif -%}
     {%- endif -%}
@@ -57,7 +57,7 @@
     {%- for item in site.data.structure.nav -%}
       {%- if page.title == item.directory -%}
          <li>
-          <a href="/src/{{ item.name }}.html"> {{ item.name }}</a>
+          <a href="{{ item.name }}.html"> {{ item.name }}</a>
         </li>
       {%- endif -%}
     {%- endfor -%}       

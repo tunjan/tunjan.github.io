@@ -1,4 +1,4 @@
-<a href="/src/home.html">tunjan</a>
+<a id=name href="home.html">tunjan</a>
 
 <form id="form">
   <input type="search" id="search" autocomplete="off">
@@ -8,11 +8,10 @@
 <script>
   const f = document.getElementById('form');
   const s = document.getElementById('search');
-  const site = '/src/';
 
   function submitted(event) {
         event.preventDefault();
-        const url = site + s.value + '.html';
+        const url = s.value + '.html';
         const win = window.open(url, '_self');
         win.focus();
       }

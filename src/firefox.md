@@ -10,3 +10,7 @@ layout: default.liquid
 - yomichan
 - privacy redirect
 - sponsorBlock
+
+## Privacy
+
+- [ArkenFox](https://github.com/arkenfox/user.js)

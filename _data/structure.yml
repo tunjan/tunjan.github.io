@@ -1,46 +1,19 @@
 nav:
+
 - name: about
   directory: home
   rank: 1
 
-- name: projects
-  directory: home
-  rank: 1
-
-- name: research
-  directory: home
-  rank: 1
-
-- name: lifestyle
+- name: now 
   directory: about
   rank: 2
 
-- name: meta
+- name: travel
   directory: about
   rank: 2
 
-- name: health
-  directory: research
-  rank: 2
-
-- name: writing
-  directory: projects
-  rank: 2
-
-- name: rules
-  directory: lifestyle
-  rank: 3
-
-- name: nutrition
-  directory: health
-  rank: 3
-
-- name: cooking
-  directory: lifestyle
-  rank: 3
-
-- name: index
-  directory: meta
+- name: moldova
+  directory: travel
   rank: 3
 
 - name: inventory
@@ -51,21 +24,25 @@ nav:
   directory: inventory
   rank: 3
 
-- name: travel
+- name: commands
+  directory: inventory
+  rank: 3
+
+- name: flashcards
+  directory: inventory
+  rank: 3
+
+- name: lifestyle
   directory: about
   rank: 2
 
-- name: quotes
-  directory: research
-  rank: 2
+- name: cooking
+  directory: lifestyle
+  rank: 3
 
-- name: now 
-  directory: about
-  rank: 2
-
-- name: javascript
-  directory: research
-  rank: 2
+- name: rules
+  directory: lifestyle
+  rank: 3
 
 - name: compulsions
   directory: lifestyle
@@ -75,6 +52,38 @@ nav:
   directory: lifestyle
   rank: 3
 
+- name: meta
+  directory: about
+  rank: 2
+
+- name: index
+  directory: meta
+  rank: 3
+
+- name: logs
+  directory: meta
+  rank: 3
+
+- name: projects
+  directory: home
+  rank: 1
+
+- name: writing
+  directory: projects
+  rank: 2
+
+- name: on-fear
+  directory: writing
+  rank: 3
+
+- name: research
+  directory: home
+  rank: 1
+
+- name: mental-health
+  directory: research
+  rank: 2
+
 - name: philosophy 
   directory: research
   rank: 2
@@ -83,22 +92,19 @@ nav:
   directory: philosophy
   rank: 3
 
-- name: logs
-  directory: meta
-  rank: 3
-
-- name: on-fear
-  directory: writing
-  rank: 3
-
-- name: commands
-  directory: inventory
-  rank: 4
-
-- name: flashcards
-  directory: inventory
-  rank: 4
-
-- name: mental-health
+- name: quotes
   directory: research
   rank: 2
+
+- name: javascript
+  directory: research
+  rank: 2
+
+- name: health
+  directory: research
+  rank: 2
+
+- name: nutrition
+  directory: health
+  rank: 3
+

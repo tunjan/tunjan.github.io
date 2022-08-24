@@ -80,6 +80,10 @@ nav:
   directory: home
   rank: 1
 
+- name: reading
+  directory: research
+  rank: 2
+
 - name: mental-health
   directory: research
   rank: 2

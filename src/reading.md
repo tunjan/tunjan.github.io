@@ -20,7 +20,7 @@ The lessons are derived from the book "How to read a Book"
 
 <q> Every book should be read no mre slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension </q>
 
-### Inspectional
+## Inspectional
 
 It can be divided into two steps: **Pre-reading** and **Superficial reading** 
 
@@ -33,11 +33,15 @@ It can be divided into two steps: **Pre-reading** and **Superficial reading**
     6. Turn to **random** pages, reading a paragraph or two.
 
 **Important**: read the last two or three pages.<br>
-**Result**: determine if it's worth reading.
+**Result**: determine if it's worth reading & priming your brain.
 
-2. Superficial reading: Read it without stopping on look-ups
+2. Superficial reading: 
+  - Read it without stopping on look-ups
+  - Take notes.
 
 <q>In tackling a difficult book for the first time, read it trough without ever stopping to look-up or ponder the things you do not understand</q>
+
+## Analytical
 
 ### Questions to ask
 
@@ -46,9 +50,7 @@ It can be divided into two steps: **Pre-reading** and **Superficial reading**
 3. Is the book true, in whole or part?
 4. What of it?
 
-Reading any book beyond the elementary level requires the reader to ask questions and answer them to the best of his ability.:w
-
-
+Reading any book beyond the elementary level requires the reader to ask questions and answer them to the best of his ability.
 
 ## Recommendations
 

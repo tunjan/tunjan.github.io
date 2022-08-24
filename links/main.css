@@ -101,7 +101,6 @@ main code {
 
 main blockquote {
   background: #f9f9f9;
-  border-left: 10px solid #ccc;
   margin: 1.5em 10px;
 }
 
@@ -118,8 +117,8 @@ main article {
 }
 
 #ToC ol li {
-  /* list-style-type: decimal-leading-zero; */
-  list-style-type: none;
+  list-style-position: inside;
+  list-style-type: decimal-leading-zero;
   text-decoration: underline;
 }
 

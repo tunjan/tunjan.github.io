@@ -17,7 +17,7 @@ html {
 
 body { 
   padding:2em;
-  font-family: sans-serif;
+  font-family: serif;
   font-size:1em; 
   text-align: left;
 }
@@ -28,10 +28,9 @@ body > *, body > * > *, main figure > *, main figure > div > *, main p {
 
 header {
   font-size: 2em;
-  margin: 0 1em 0 0;
+  margin: 0 1em 0 0 ;
   display: flex-box;
   font-family: et-book;
-  letter-spacing: 0.1em;
   float:left;
 }
 
@@ -148,6 +147,10 @@ main cite {
   display: block;
   clear: both;
   margin-bottom: 2em;
+}
+
+main p {
+    line-height: 1.5em;
 }
 
 

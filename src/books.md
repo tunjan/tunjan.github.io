@@ -17,7 +17,7 @@ layout: default.liquid
 - **Utopia**: Thomas More
 
 
-## Reading list 2022
+## 2022
 
 - **Letters from a Stoic**: Seneca
 - **Meditations**: Marcus Aurelius

@@ -12,6 +12,9 @@
      </nav>
      <main>
      <div id="ToC"></div>
+     {% if page.data.image %}
+      <img src="../media/{{page.data.image}}.jpg">
+     {% endif %}
         {{ page.content }}
       </main>
       <footer>

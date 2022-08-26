@@ -9,13 +9,13 @@
   {%- if page.title == item.name -%}
     {%- assign maxRank = item.rank -%}
     {%- assign lowRank = maxRank | minus: 1 -%}
-    {%- assign pageRoot = item.directory -%}
+    {%- assign pageRoot = item.folder -%}
   {%- endif -%}
 {%- endfor -%}
 
 {%- for item in site.data.structure.nav -%}
   {%- if item.name == pageRoot -%}
-    {%- assign rootDirectory = item.directory -%}
+    {%- assign rootDirectory = item.folder -%}
   {%- endif -%}
 {%- endfor -%}
 
@@ -32,15 +32,15 @@
         <li>
           <a id="selected" href="{{ item.name }}.html">{{ item.name }}</a>
         </li>
-      {%- elsif item.directory == pageRoot -%}  {% comment %} If other pages have the same root directory {% endcomment -%}
+      {%- elsif item.folder == pageRoot -%}  {% comment %} If other pages have the same root folder {% endcomment -%}
         <li>
           <a href="{{ item.name }}.html"> {{ item.name }}</a>
         </li>
-      {%- elsif item.name == pageRoot -%} {% comment %} prints the root directory {% endcomment -%}
+      {%- elsif item.name == pageRoot -%} {% comment %} prints the root folder {% endcomment -%}
         <li>
           <a href="{{ item.name }}.html"> <b>{{ item.name }}</b></a>
         </li>
-      {%- elsif item.directory == rootDirectory -%} {% comment %} prints the directories which have the same directory as the rootDirectory {% endcomment -%}
+      {%- elsif item.folder == rootDirectory -%} {% comment %} prints the directories which have the same folder as the rootDirectory {% endcomment -%}
         <li>
           <a href="{{ item.name }}.html"> {{ item.name }}</a>
         </li>
@@ -55,7 +55,7 @@
   {%- if item.rank > maxRank -%}
     <ul>
     {%- for item in site.data.structure.nav -%}
-      {%- if page.title == item.directory -%}
+      {%- if page.title == item.folder -%}
          <li>
           <a href="{{ item.name }}.html"> {{ item.name }}</a>
         </li>

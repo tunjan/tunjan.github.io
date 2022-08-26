@@ -3,7 +3,9 @@ title: about
 published_date: "2022-07-14 08:48:07 +0000"
 layout: default.liquid
 is_draft: false
+data: {image: torta}
 ---
+
 
 This site serves the purpose of growing a garden of ideas, knowledge and interests. Making a few but deliberate improvements over time to each page.
 

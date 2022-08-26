@@ -1,114 +1,146 @@
 nav:
 
 - name: about
-  directory: home
+  folder: home
   rank: 1
 
-- name: now 
-  directory: about
-  rank: 2
-
-- name: travel
-  directory: about
-  rank: 2
-
-- name: moldova
-  directory: travel
-  rank: 3
-
-- name: inventory
-  directory: about
-  rank: 2
-
-- name: workstation
-  directory: inventory
-  rank: 3
-
-- name: commands
-  directory: inventory
-  rank: 3
-
-- name: flashcards
-  directory: inventory
-  rank: 3
-
-- name: lifestyle
-  directory: about
-  rank: 2
-
-- name: cooking
-  directory: lifestyle
-  rank: 3
-
-- name: rules
-  directory: lifestyle
-  rank: 3
-
-- name: compulsions
-  directory: lifestyle
-  rank: 3
-
-- name: habits
-  directory: lifestyle
-  rank: 3
-
 - name: meta
-  directory: about
+  folder: about
   rank: 2
 
 - name: index
-  directory: meta
+  folder: meta
   rank: 3
 
 - name: logs
-  directory: meta
+  folder: meta
   rank: 3
 
-- name: projects
-  directory: home
+- name: personal
+  folder: about
+  rank: 2
+
+- name: values
+  folder: personal
+  rank: 3
+
+- name: beliefs
+  folder: personal
+  rank: 3
+
+- name: lifestyle
+  folder: personal
+  rank: 3
+
+- name: cooking
+  folder: lifestyle
+  rank: 4
+
+- name: rules
+  folder: lifestyle
+  rank: 4
+
+- name: compulsions
+  folder: lifestyle
+  rank: 4
+
+- name: habits
+  folder: lifestyle
+  rank: 4
+
+- name: now 
+  folder: personal
+  rank: 3
+
+- name: travel
+  folder: personal
+  rank: 3
+
+- name: moldova
+  folder: travel
+  rank: 4
+
+- name: directory
+  folder: home
   rank: 1
 
+- name: books
+  folder: directory
+  rank: 2
+
+- name: inventory
+  folder: directory
+  rank: 2
+
+- name: commands
+  folder: inventory
+  rank: 3
+
+- name: workstation
+  folder: inventory
+  rank: 3
+
 - name: writing
-  directory: projects
+  folder: directory
+  rank: 2
+
+- name: quotes
+  folder: directory
   rank: 2
 
 - name: on-fear
-  directory: writing
+  folder: writing
   rank: 3
 
-- name: research
-  directory: home
+- name: projects
+  folder: home
   rank: 1
 
+- name: development
+  folder: projects
+  rank: 2
+
+- name: knowledge
+  folder: home
+  rank: 1
+
+- name: theoretical
+  folder: knowledge
+  rank: 2
+ 
+- name: practical
+  folder: knowledge
+  rank: 2
+
 - name: reading
-  directory: research
-  rank: 2
-
-- name: mental-health
-  directory: research
-  rank: 2
-
-- name: philosophy 
-  directory: research
-  rank: 2
-
-- name: ethics
-  directory: philosophy
+  folder: practical
   rank: 3
 
-- name: quotes
-  directory: research
-  rank: 2
+- name: flashcards
+  folder: practical
+  rank: 3
+
+- name: mental-health
+  folder: practical
+  rank: 3
+
+- name: philosophy 
+  folder: theoretical
+  rank: 3
+
+- name: ethics
+  folder: philosophy
+  rank: 3
 
 - name: javascript
-  directory: research
-  rank: 2
+  folder: practical
+  rank: 3
 
 - name: health
-  directory: research
-  rank: 2
+  folder: theoretical
+  rank: 3
 
 - name: nutrition
-  directory: health
+  folder: health
   rank: 3
 

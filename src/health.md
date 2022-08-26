@@ -12,7 +12,7 @@ is_draft: false
   {%- if page.title == item.name -%}
     {% assign pageRoot = item.name %}
     {%- for item in site.data.structure.nav -%}
-      {%- if pageRoot == item.directory -%}
+      {%- if pageRoot == item.folder -%}
         <a href='{{item.name}}.html'>{{item.name}}</a>
       {%- endif -%}
     {%- endfor -%}

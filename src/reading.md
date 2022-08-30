@@ -7,172 +7,80 @@ is_draft: false
 
 # Guidelines on reading to understand.
 
-- Reading is an active practice
-- Reading: the process whereby a mind, with nothing to operate on but the symbols of the readable matter.
-and with no helo from outside, elevates itself by the power of its own operations.
-- Goal: to pass from understading less to understanding more.
-- Distinguish between reading for information and reading for understanding
-- Learning is not remembering more information.
-- Initial inequality in understanding: the write must understand btter than the reader.
-- The reader must be able to overcome the inequality.
-- You have to know what an author says and why he says it.
-- Reading is like learning from an absent teacher.
-- Learning to read is at least as complex as learning to ski. Have patience.
-
-## On reading speed.
-
-The ideal is note merely to be able to read faster, but to ve able to read at differents speeds. And to know which is appropriate.
-Every book , no matter how difficult conttains intersticial material that can be and should be read quickly;and every good book also contains matter that is difficult and should be read very slowly.
-
-Untrained readers: sub-vocalize, fix five or six times in the course of each line tht is read. The eyes regress as often as once every two or three lines.
-
-The mind can grasp a sentence at a "Glance"
-
-Correct fixations and regressions.
-
-Place your thumb and first two fingers together. Sewwp this pointer a little faster than it is confortable. Force youself to keep up with your hand.
-Keep increasing the speed at which you sweep.
-
-It is harder to wander in your mind if using the hand.
-
-The problem of speed reading is the problem of comprehension. For comprehension analytical readingis needed.
+Reading—for understanding, not information—is an **active** commitment from the reader to have a **conversation** with the writer.
+The reader should ask as many **questions** as possible, in an orderly manner, with the goal of achieving the same level
+of **understanding** as the author. So as to be able to argue and critize him.
 
 ## Demanding reader
 
-Ask questions while you read. Questions you youself must try to answer
+The demanding reader asks questions while he reads, and tries to **answer** them precisely and accurately.
+There are four questions that must be asked of any worthwhile book, these are **obligations** to the reader.
+Once they are answered, the analytical reading is complete.
 
-Four main questions (to ask of all books):
-  1. What is the book as a whole? (theme of the book how the author develops the theme by subdividing it)
-  2. What is being said in detail and how? (main ideas, assertions, arguments of message)
-  3. Is the book true, in whole or in part? (after answering the first two)
-  4. What of it? (ask about significacne. Why does the author think it imporant to know these things? Is it imporant for you to know them? What is further implied or suggested?)
+  1. What is the book as a **whole**?
+  2. What is being said in detail and how?
+  3. Is the book true, in whole or in part?
+  4. What of it?
 
-  These wuestions are the obligation of a reader. They apply to anything worth reading. They apply to anything worth reading.
+The worst fault of the non-demandng reader is his inatenttion to **words**, and failure to **come to terms** with the author.
 
-  Analytical reading is completed when you can answer all of them.
+## Levels of reading
 
-  Ask the questions as you read. Answer them precisely and accurately.
+ The higher the level, the more effort is required. Higher levels require mastery of the lowers.
 
-  Write in the book
+ 1. **Elementary**: Understanding words and sentences.
+ 2. **Inspectional**: Know the surface of a book thorugh systematical skimming. 
+ 3. **Analytical**: Chew and digest the book by asking as many organized questions as possible.  
+ 4. **Syntopical**: Reading many books of the same subject and placing them in relation to one another.
 
-  Reading is a convesation between you and the author. He knows more than you do.
-  
-  The worst fault of the non-demandng reader is his inatenttion to words, and failure to come to terms with the author.
+## Inspectional
 
-  ### Marking a book
-
-  + Underlining major points.
-  + Vertical lines at the margin.
-  + Stars to emphasize ten most imporant statements. (fold corner)
-  + Numbers in the margin. to indeicate points in developing an argument.
-  + Numbers of other pages. Indicate where the same point is made. Or points relevant to the one made.(use "Cf")
-  + Record questions (and answers) of passages. to reduce a complex discussion to a statement.
-
-  ### Types of note-taking
-  
-  - structural (inspectional)
-  - conceptual (analytical)
-  - dialectical (syntopical)
-
-## Quotes
-
-<q>The difference between good and bad stories having the same essential plot
-lies in what the author does with it, how he dresses up the bare bones</q>
+It tells you whether it is **worth** giving it an analytical reading.
+If you decide to give it up, you will have learnt a lot from it.
+If you decide to continue into analytical reading, it will allow to **answer** many questions.
 
 <q>Some books are to be tasted,
 others to be swallowed,
 and some to to be chewed and digested</q>
+
+### Assumptions
+
+- You do not know wether to read the book analytically.
+- You have limited time to find it out.
+
+### Questions
+   
+Structure, not substance.
+
+- What kind of book is it?
+- What is the book about as a whole?
+- What is the structure of the book?
+
+### Steps
+
++ Pre-reading:
+
+  You are a detective looking for the books general theme or idea.
+
+  1. Look the **title** & **preface**.
+  2. Study **table of contents** .
+  3. Check **index**. Read passages with crucial terms. Estimate topics covered.
+  4. Read **publisher's blurb** and decide if worth to read.
+  5. Find pivotal **chapters** to the arguments. Read chapters summaries carefully.
+  6. Turn to **random** pages, reading a paragraph or two. Read the last two or three pages.
+
++ Superficial reading: 
+
+  - Read it the first time **without stopping** on look-ups or pondering on things.
+  - Concentrate on things you can understand
+  - Take notes.
 
 <q>Do not try to understand every word or page of a difficult book the first time through.
 This is the most imporant rule of all; it is the essence of inspectional reading. Do not be afraid
 to be, or seem to be, superficial. Race through even the hardest book. You will then be prepared
 to read it well the second time.</q>
 
-<q> Reading a book on any level beyond the elementary is essentially an effort on your part to
-asl it questions(and to asnwer them to the best of your ability). That should never be forgotten. And that is why there is all the difference in
-the world between the demanding and the undemanding reader. The latter ask no questions - and gets no answers.</q>
-
-<q>The person who says he knows what he thinks but cannot express it usually does not know what he thinks.</q>
-
-<q>Marking a book s literally an expression of your differences or your agreemtns with the author. It is the ighest respect you can pay him.</q>
-
-<q>The art as something that can be taught consists of rules to be follows in operation. The art as something to be leaned and possesed consists of the habit
-that results from operating according to the rules</q>
-
-<q> To forget the acts as separate, you have to learn them first as separate acts.</q>
-
-<q>To make knowledge practical we must convert it into rules of operation. We must pass from know _what is the case_
-to knowing _what to do about it if we wish to get somewhere_</q>
-
-## Types of books
-
-- Expository: history, science, philosophy
-- Fictional: novels, poems...
- 
-## Levels
-
- Reading can be divided into four levels, the higher the level, the more effort is required. The higher levels require mastery in the lower ones to work.
-
- 1. **Elementary**: Understanding words and sentences. Having literacy. Recognizing word on a page.
- 2. **Inspectional**: Skimming systematically to know the surface of the book and determine if its worth reading. 
- 3. **Analytical**: To chew and digest the book. Asking as many organized questions as possible.  
- 4. **Syntopical**: Reading many books of the same subject and placing them in relation to one another. Very great benefits.
-
-<q> Every book should be read no mre slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension </q>
-
-## Inspectional
-
-You can learn a lot about the book even if you decide not to read it again with more care.
-
-Preparations for analytycal reading.
-
-Make notes concerning the quesitons. Concerning the structure of the book, not its substance.
-
-### Requirements
-
-Read steadily, without stumbling on grammar or syntax and meanings.
-
-### Assumptions
-
-- You do not know wether to read the book. Analytically.
-- You have limited time to find it out.
-
-### Questions
-
-What kind of book is it?
-
-What is the book about as a whole?
-
-What is the structure of the book?
-
-### Steps
-
-It can be divided into two steps: **Pre-reading** and **Superficial reading**.
-
-Experienced readers can perform it simultaneously.
-
-+ Pre-reading
-
-You are a detective looking for the books general theme or idea.
-    1. Look the **title** & **preface** 
-    2. Study **table of contents** 
-    3. Check **index**. Read passages with crucial terms. Estimate topics covered.
-    4. Read **publisher's blurb** and decide if worth to read.
-    5. Find pivotal **chapters** to the arguments. Read chapters summaries carefully.
-    6. Turn to **random** pages, reading a paragraph or two. Read the last two or three pages.
-
-**Important**: read the last two or three pages.<br>
-**Result**: determine if it's worth reading & priming your brain. Anticipates the comprehension of a book's structure.
-
-+ Superficial reading: 
-  - Necessary for the interpretation of a book's content.
-  - Read it the first time without stopping on look-ups or pondering on things.
-  - Concentrate on things you can understand
-  - Take notes.
-
-<q>In tackling a difficult book for the first time, read it trough without ever stopping to look-up or ponder the things you do not understand</q>
-
-## Classifications of books
+### Classification of books
 
 - Fiction
   + Novels
@@ -190,14 +98,16 @@ Not necessary if reading for information or entertainment. Only for understandin
 
 ### Rules
 
-#### First stage (answer first question)
+<q>To forget the acts as separate, you have to learn them first as separate acts.</q>
 
-1. Classify the book according to kind and subject matter.
+#### First stage
+
+1. Classify the book according to kind and subject matter. <details><summary>More</summary>You must know what kind of book you are reading. Fiction (novel, play, epic, lyrics). Expository work(opinions, theories,
+hypothesis).</details>
+
 2. State what the whole book is about with the utmost brevity
 3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.
 4. Define the problem or problems the author is trying to solve
-
-1. You must know what kind of book you are reading. Fiction (novel, play, epic, lyrics). Expository work(opinions, theories, hypothesis or speculations with the calim made explicitly).
 
 2. State the unity of the whole book in a single sentence (or short paragraph), "The whole book is about so and so and such and such"
 
@@ -241,12 +151,43 @@ propositions are nothing but expression of opinion unless supported by reasons.
 3. Is the book true, in whole or part?
 4. What of it?
 
-Reading any book beyond the elementary level requires the reader to ask questions and answer them to the best of his ability.
+## On reading speed
 
-## Recommendations
+The ideal is to be able to read at **different** speeds and to know which is **appropriate**.
+Most books have material that ought to be read **quickly** and material that ought to be read **very slowly**.
 
-- Use you hand to guide your reading speed.
-- To know when each reading speed is appropriate is the ideoal.
+To read faster avoid sub-vocalization, **regression**, and fixation; the mind can grasp a sentence with a **glance**.
+So practice guiding your reading with your thumb an first two fingers, sweeping them faster than it is **confortable** to read.
+Thus you will also avoid **mind wandering**.
 
+<q>Every book should be read no mre slowly than it deserves, and no more quickly than you can read it with satisfaction and comprehension</q>
+
+## Marking a book
+
+- Underlining major points.
+- Vertical lines at the margin.
+- Stars/fold corners to emphasize ten most imporant statements.
+- Numbers in the margin to indicate points in developing an argument.
+- Numbers of other pages to ndicate where the same point is made. Or points relevant to the one made.
+- Record questions (and answers) of passages.
+
+## Quotes
+
+<q>The difference between good and bad stories having the same essential plot
+lies in what the author does with it, how he dresses up the bare bones</q>
+
+
+<q> Reading a book on any level beyond the elementary is essentially an effort on your part to
+asl it questions(and to asnwer them to the best of your ability). That should never be forgotten. And that is why there is all the difference in
+the world between the demanding and the undemanding reader. The latter ask no questions - and gets no answers.</q>
+
+<q>The person who says he knows what he thinks but cannot express it usually does not know what he thinks.</q>
+
+<q>The art as something that can be taught consists of rules to be follows in operation. The art as something to be leaned and possesed consists of the habit
+that results from operating according to the rules</q>
+
+
+<q>To make knowledge practical we must convert it into rules of operation. We must pass from know _what is the case_
+to knowing _what to do about it if we wish to get somewhere_</q>
 
 

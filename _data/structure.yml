@@ -120,10 +120,6 @@ nav:
   folder: practical
   rank: 3
 
-- name: mental-health
-  folder: practical
-  rank: 3
-
 - name: philosophy 
   folder: theoretical
   rank: 3
@@ -140,7 +136,11 @@ nav:
   folder: theoretical
   rank: 3
 
+- name: mental
+  folder: health
+  rank: 4
+
 - name: nutrition
   folder: health
-  rank: 3
+  rank: 4
 

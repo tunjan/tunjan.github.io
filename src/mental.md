@@ -1,5 +1,5 @@
 ---
-title: mental-health
+title: mental
 layout: default.liquid
 ---
 
@@ -126,7 +126,7 @@ Everyone faces similar mental health challenges. We are humans.
 
   - **Description** : practice mindfulness while doing everyday tasks. Such as cleaning, cooking or walking. 
 
-  - **Examples** : 1. walking without obssesing with things in your head. 2. when talking with others just focus on listening without judging or worrying of what you have to say. 3. see something without planning a million other things in your head. 4. open your senses to the meal you are cooking , recognize the work that went to the food.
+  - **Examples** : (1) Walking without obssesing with things in your head. (2) When talking with others just focus on listening without judging or worrying of what you have to say. (3) See something without planning a million other things in your head. (4) Open your senses to the meal you are cooking , recognize the work that went to the food.
 
 ### Meditate
 

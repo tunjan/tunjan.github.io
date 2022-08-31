@@ -16,16 +16,15 @@ layout: default.liquid
 - **Time and free will**: Henry David Thoreau
 - **Utopia**: Thomas More
 
-
 ## 2022
-
+- **How to read a book**: Adler
 - **Letters from a Stoic**: Seneca
 - **Meditations**: Marcus Aurelius
-- **You are not a Rock**
+- **You are not a Rock** Mark Freeman
 - **Walden**: Henry David Thoreau
-- **The mind iluminated**
-- **The courage to be disliked**: Ichiro Kishimi
-- **The socratic method**
+- **The mind iluminated**: 
+- **The socratic method**: 
 - **On the shortness of life**: Seneca
 - **The Journals**: Henry David Thoreau 
 - **On the Shortness of life**: Seneca 
+- **The courage to be disliked**: Ichiro Kishimi

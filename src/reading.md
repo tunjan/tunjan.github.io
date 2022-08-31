@@ -7,7 +7,7 @@ is_draft: false
 
 # Guidelines on reading to understand.
 
-Reading—for understanding, not information—is an **active** commitment from the reader to have a **conversation** with the writer.
+Reading — for understanding, not information — is an **active** commitment from the reader to have a **conversation** with the writer.
 The reader should ask as many **questions** as possible, in an orderly manner, with the goal of achieving the same level
 of **understanding** as the author. So as to be able to argue and critize him.
 
@@ -35,18 +35,13 @@ The worst fault of the non-demandng reader is his inatenttion to **words**, and 
 
 ## Inspectional
 
-It tells you whether it is **worth** giving it an analytical reading.
+Tells you whether it is **worth** giving the book an analytical reading.
 If you decide to give it up, you will have learnt a lot from it.
 If you decide to continue into analytical reading, it will allow to **answer** many questions.
 
 <q>Some books are to be tasted,
 others to be swallowed,
-and some to to be chewed and digested</q>
-
-### Assumptions
-
-- You do not know wether to read the book analytically.
-- You have limited time to find it out.
+and some to be chewed and digested</q>
 
 ### Questions
    
@@ -80,7 +75,7 @@ This is the most imporant rule of all; it is the essence of inspectional reading
 to be, or seem to be, superficial. Race through even the hardest book. You will then be prepared
 to read it well the second time.</q>
 
-### Classification of books
+### <span id="classification"> Classification of books </span>
 
 - Fiction
   + Novels
@@ -94,7 +89,7 @@ to read it well the second time.</q>
 
 ## Analytical
 
-Not necessary if reading for information or entertainment. Only for understanding.
+Method to read for understanding.
 
 ### Rules
 
@@ -102,47 +97,19 @@ Not necessary if reading for information or entertainment. Only for understandin
 
 #### First stage
 
-1. Classify the book according to kind and subject matter. <details><summary>More</summary>You must know what kind of book you are reading. Fiction (novel, play, epic, lyrics). Expository work(opinions, theories,
-hypothesis).</details>
-
-2. State what the whole book is about with the utmost brevity
-3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole.
-4. Define the problem or problems the author is trying to solve
-
-2. State the unity of the whole book in a single sentence (or short paragraph), "The whole book is about so and so and such and such"
-
-3. Set forth the major parts of the book, and how these are organized into a whole by being ordered to one another and to the unity of the whole. 
+1. **Classify** the book according to kind and [subject](reading.html#classification) matter.
+2. State what the whole book is **about** with the utmost brevity.
+3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole. <details><summary>More</summary>
+Set forth the major parts of the book, and how these are organized into a whole by being ordered to one another and to the unity of the whole. 
 Find the plan behing the book. The best books have the most intelegible structure, but are more complex. Outline the parts of a book and how they exemplify the main theme.
-
 (1) The author accomplished his plan in five major parts pf whih the first is so and so, the second about such and such... The first major part is divided in three sections of which the first considers X the second Y and the third Z. In the first section of the firt part the author makes four points. The first is A, the second B...
-
-Only needed an aproximation of this. And does not need to be done explicitly, but while reading the book if you are experienced. Only appply this rule very well with few books. With others a rough notion is fine. No book deserves a perfect outline. Basically divide the book in parts and the
-
-<q>There are few authors who execute their plan perfectly, but there is often more plan in a good book than meets the eye at first. The surface
-can be deceiving. You must look beneath it to discover the real structure.</q>
-
-<q> The reader tries to uncover the skeleton that the book conceals. The author starts with the skeleton and tries to cover it up. His aim is to conceal the skeleton artistcally or, in toher words, to put flesh on the bare bones.</q>
-
-4. Find out what the author's probems where. The author of a book starts with a question
-
-You should be able to state the main questions that the book tries to answer, and divide it into subquestions if the first is too complex.
+Only needed an aproximation of this. And does not need to be done explicitly, but while reading the book if you are experienced. Only appply this rule very well with few books. With others a rough notion is fine. No book deserves a perfect outline. Basically divide the book in parts and the</details>
+4. Define the problem or problems the author is trying to solve.<details>You should be able to state the main questions that the book tries to answer, and divide it into subquestions if the first is too complex.</details>
 
 #### Second stage
 
-5. Find the important words and thorugh them come to terms with the author.
-  Locate important words, determine the meaning of those words, as used, with precision.
-  The most important words are those thta give you trouble.
-  Sometimes authors tell you how they use a particular word. It is important.
-  Important: mark the words you do not understand. Bery important.
-Coming to terms: use a given word with the same meaning as the writer.
-Discover the meaning of a word by using the meaning in contexts you do understand.
-If a book gives you insights it may have words you do not understand.
-In good books the terms are welll made and put together.
-
-6. Mark the most imporant sentences and the prMark the most imporant sentences and the propositions it containts
-
-propositions are nothing but expression of opinion unless supported by reasons.
-
+5. Find the important words and thorugh them come to terms with the author.<details>Determine the meaning of important words. The ones that give you trouble. That the author tell you how they use it. Important to mark them. Look at the same wods in different contexts to understand it. IN good books terms are well defined </details>
+6. Mark the most imporant sentences and the propositions it containts
 
 ### Questions to ask
 
@@ -186,8 +153,12 @@ the world between the demanding and the undemanding reader. The latter ask no qu
 <q>The art as something that can be taught consists of rules to be follows in operation. The art as something to be leaned and possesed consists of the habit
 that results from operating according to the rules</q>
 
-
 <q>To make knowledge practical we must convert it into rules of operation. We must pass from know _what is the case_
 to knowing _what to do about it if we wish to get somewhere_</q>
+
+<q>There are few authors who execute their plan perfectly, but there is often more plan in a good book than meets the eye at first. The surface
+can be deceiving. You must look beneath it to discover the real structure.</q>
+
+<q> The reader tries to uncover the skeleton that the book conceals. The author starts with the skeleton and tries to cover it up. His aim is to conceal the skeleton artistcally or, in toher words, to put flesh on the bare bones.</q>
 
 

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../links/main.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="rss.xml">
+<meta name="author" content="Tunjan">
+<meta property="og:image" content="https://tunjan.github.io/media/logo.png">
+<link rel="shortcut icon" type="image/png" href="/media/logo.png">
+<link rel="icon" type="image/png" href="/media/logo.png"/>
+<meta charset="utf-8">
+<title>Tunjan ‒ firefox</title>
+   
+    </head>
+    <body>
+      <header>
+        <a href="home.html">
+  <img src="../media/logo.png" width ="80px">
+</a>
+
+<form id="form">
+  <input type="search" id="search" autocomplete="off">
+  <input type="submit" id="submit">
+</form>
+
+<script>
+  const f = document.getElementById('form');
+  const s = document.getElementById('search');
+  function submitted(event) {
+        event.preventDefault();
+        const url = s.value + '.html';
+        const win = window.open(url, '_self');
+        win.focus();
+      }
+  f.addEventListener('submit', submitted);
+</script>
+
+      </header>
+     <nav><ul><li>
+          <a href="lessons.html"> lessons</a>
+        </li><li>
+          <a href="hardware.html"> <b>hardware</b></a>
+        </li><li>
+          <a href="software.html"> software</a>
+        </li><li>
+          <a href="commands.html"> commands</a>
+        </li><li>
+          <a href="workstation.html"> workstation</a>
+        </li></ul><ul><li>
+          <a id="selected" href="firefox.html">firefox</a>
+        </li><li>
+          <a href="kindle.html"> kindle</a>
+        </li></ul><ul></ul>
+  </nav>
+     <main>
+     <div id="ToC"></div>
+     
+        <h2>Addons</h2>
+<ul>
+<li>uBlock origin</li>
+<li>noScript</li>
+<li>yomichan</li>
+<li>privacy redirect</li>
+<li>sponsorBlock</li>
+</ul>
+<h2>Privacy</h2>
+<ul>
+<li><a href="https://github.com/arkenfox/user.js">ArkenFox</a></li>
+</ul>
+
+      </main>
+      <footer><hr />
+<span style='float:right'>Built on Sat Sep  3 17:01:56 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
+<br/>
+</span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
+</footer>
+    <script src="../links/scripts/toc.js"></script>
+    </body>
+</html>

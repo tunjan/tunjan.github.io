@@ -97,6 +97,8 @@ Method to read for understanding.
 
 #### First stage
 
+Outlining the structure
+
 1. **Classify** the book according to kind and [subject](reading.html#classification) matter.
 2. State what the whole book is **about** with the utmost brevity.
 3. Enumerate its major parts in their order and relation, and outline these parts as you have outlined the whole. <details><summary>More</summary>
@@ -108,8 +110,26 @@ Only needed an aproximation of this. And does not need to be done explicitly, bu
 
 #### Second stage
 
+Interpreting the contents
+
 5. Find the important words and thorugh them come to terms with the author.<details>Determine the meaning of important words. The ones that give you trouble. That the author tell you how they use it. Important to mark them. Look at the same wods in different contexts to understand it. IN good books terms are well defined </details>
-6. Mark the most imporant sentences and the propositions it containts
+6. Find the relevant propositions in important sentences.<details><summary>More</summary>Those that require an effort of interpretation. The major affirmations and denials and the reasons are the heart. Ask questions about the meaning of a passage. Most important sentences have important words. One sentence may have more than one proposition. State the propositions in your own words. Explain what the author means by a particular sentence. If you cannot express them with other words, only words have passed from author to reader. If you say you know what an author means but can only repeat his sentence, then you know nothing.</details>
+
+7. Locate or construct the basic arguments of the author from sentences.<details><summary>More</summary>find the paragraphs that state the important arguments ubt if the arguments are not epressed, construct them by taking a sentece from each paragraph. Write on paper the propositions. Put numbers in the margins. Normal is two arguments in a paragraph. Propaganda leaves things unsaid that should be made explicit but not becasue they might be challenged. Any good argument can be put in a nutshell. Every argument involves a number of statements. Look for assumptinos or self-evident facts</details>
+
+8. Find out what problem the author has solved, what has not and if he did not know he had nt solved it. <details><summary>More</summary>Which of the problems that the author tried to solve did he succed in solvig? Did he raise any new problem?
+
+### Third Stage
+
+The profit in good conversation is something learned. Now the reader talks back to the author. He has an bligatino to do it. The activity of reading does not end with understanding what the book says. It must be completed by the work of criticism the work of judging. There is a tendency to think that a good book is above the criticism of the average reader. Previous to criticism you must understand. The most teachable reader is the most critical. He responds to a book with the greatest effort to make his own mind on the matters the author has discussed. To regard anyone except yourself as responsible for your judgment is to be a slave. Understand rethoric to avoid being decieved.
+
+9. You must be absolutely certain you understand the author before you say "I aggre", "I disagree" or "I suspend judgment"<details><summary>More</summary>Disagreeing takes as much judgment as agreeing.You uderstand when you can state the author position in other wordd.</details>
+
+10. Do not be disputateous or contentious <details><summary>More</summary>He who regards a conversation as a battle can win only by being an antagonist. You should be as prepared to agree as to disagree with the author. You main objective is reaching the truth together.</details>
+
+11. Give reasons for critical judgment of the ideas.<details><summary>More</summary>The reader who does not distinguish between reasoned knowledge and expression of opinion is not reading to learn. Knowledge are opininos that can be defended. Opinion is unsupported judgment.</details>
+
+12. 
 
 ### Questions to ask
 
@@ -161,4 +181,4 @@ can be deceiving. You must look beneath it to discover the real structure.</q>
 
 <q> The reader tries to uncover the skeleton that the book conceals. The author starts with the skeleton and tries to cover it up. His aim is to conceal the skeleton artistcally or, in toher words, to put flesh on the bare bones.</q>
 
-
+<q>Read not to conrtadict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider</q>

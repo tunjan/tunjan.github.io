@@ -79,6 +79,7 @@ is_draft: false
 - tbsp = tablespoon
 
 ## References
-[Lentil soup](https://simple-veganista.com/hearty-lentil-soup/print/29555/)
+
+<a target="blank" href="https://simple-veganista.com/hearty-lentil-soup/print/29555/">Lentil Soup</a>
 [Chickpea](https://simple-veganista.com/chickpea-ratatouille-nicoise/#tasty-recipes-8822-jump-target)
 

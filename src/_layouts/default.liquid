@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      {% include "head.liquid" %}   
+    </head>
+    <body>
+      <header>
+        {% include "header.liquid" %}
+      </header>
+     <nav>
+       {%- include "nav.liquid" -%}
+     </nav>
+     <main>
+     <div id="ToC"></div>
+     {% if page.data.image %}
+      <img src="../media/{{page.data.image}}.jpg">
+     {% endif %}
+        {{ page.content }}
+      </main>
+      <footer>
+        {%- include "footer.liquid" -%}
+     </footer>
+    <script src="../links/scripts/toc.js"></script>
+    </body>
+</html>

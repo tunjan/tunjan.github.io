@@ -1,1 +1,1 @@
-This wiki is staticaly generated through cobalt.
+This wiki is statically generated through cobalt.

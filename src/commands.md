@@ -8,6 +8,8 @@ Commands I find myself using time and time again. Or used once, but were so diff
 ## Vim
 
 - Search & Replace: ```%s/<search_term>/<replace_term>/g``` 
+- Add snippet: ```require("luasnip.loaders.from_vscode").lazy_load({ paths = { "~/.config/nvim/lua/custom/snippets" } })``` in luasnip
+examples in ``` ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snippets/global.json```
 
 ## System
 
@@ -26,3 +28,5 @@ Commands I find myself using time and time again. Or used once, but were so diff
 ## Miscelaneous
 
 - **Download website**: ```wget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off https://example.com```
+
+- **Start server** : ```python3 -m http.server 8000```

@@ -9,3 +9,4 @@ layout: default.liquid
 
 [{{ post.title }}]({{ post.permalink }})
 {% endfor %}
+

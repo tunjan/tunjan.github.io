@@ -10,7 +10,6 @@ html {
     text-decoration: none;
     font-family: inherit;
     vertical-align: baseline;
-    list-style: none;
     border-collapse: collapse;
     color: #000;
     /* outline: 2px dashed black; */
@@ -95,8 +94,8 @@ main li details {
 }
 
 details > summary {
-    list-style-type: none;
-    font-weight: bold;
+    /* list-style-type: none; */
+    font-weight: normal;
 }
 
 main code {
@@ -108,7 +107,7 @@ main code {
 }
 
 main li {
-    margin: 0.25em 0;
+    margin: 0.5em 0;
 }
 
 #ToC ol {
@@ -123,15 +122,17 @@ main li {
     text-decoration: underline;
 }
 
+main details ul {
+  margin-top: 1em;
+}
+
 main ul,
 ol {
     padding-left: 2em;
     margin-bottom: 2em;
+    list-style-type: default;
 }
 
-details ul {
-    margin: 1em 0;
-}
 
 main h1 {
     font-size: 2em;

@@ -68,6 +68,16 @@ is_draft: false
 
 </details>
 
+## Black Eyed Pea Soup
+
+<details>
+<summary> Ingredients </summary>
+
+  - 454 g **black eyed peas**
+   
+</details>
+
+
 ## Lexicon
 
 - g = grams
@@ -80,6 +90,6 @@ is_draft: false
 
 ## References
 
-<a target="blank" href="https://simple-veganista.com/hearty-lentil-soup/print/29555/">Lentil Soup</a>
-[Chickpea](https://simple-veganista.com/chickpea-ratatouille-nicoise/#tasty-recipes-8822-jump-target)
-
+- <a target="blank" href="https://simple-veganista.com/hearty-lentil-soup/print/29555/">Lentil Soup</a>
+- [Chickpea](https://simple-veganista.com/chickpea-ratatouille-nicoise/#tasty-recipes-8822-jump-target)
+- <a target="_blank" href="https://simple-veganista.com/black-eyed-pea-soup/#tasty-recipes-50891-jump-target">Black Peas Soup</a>

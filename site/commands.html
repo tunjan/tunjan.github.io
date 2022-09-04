@@ -63,6 +63,8 @@
 <h2>Vim</h2>
 <ul>
 <li>Search &amp; Replace: <code>%s/&lt;search_term&gt;/&lt;replace_term&gt;/g</code> </li>
+<li>Add snippet: <code>require(&quot;luasnip.loaders.from_vscode&quot;).lazy_load({ paths = { &quot;~/.config/nvim/lua/custom/snippets&quot; } })</code> in luasnip
+examples in <code> ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snippets/global.json</code></li>
 </ul>
 <h2>System</h2>
 <ul>
@@ -80,12 +82,17 @@
 </ul>
 <h2>Miscelaneous</h2>
 <ul>
-<li><strong>Download website</strong>: <code>wget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off https://example.com</code></li>
+<li>
+<p><strong>Download website</strong>: <code>wget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off https://example.com</code></p>
+</li>
+<li>
+<p><strong>Start server</strong> : <code>python3 -m http.server 8000</code></p>
+</li>
 </ul>
 
       </main>
       <footer><hr />
-<span style='float:right'>Built on Sat Sep  3 17:01:56 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
+<span style='float:right'>Built on Sun Sep  4 08:47:27 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
 <br/>
 </span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
 </footer>

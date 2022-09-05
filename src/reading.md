@@ -55,7 +55,7 @@ Structure, not substance.
 
 + Pre-reading:
 
-  You are a detective looking for the books general theme or idea.
+  Main theme or idea.
 
   1. Look the **title** & **preface**.
   2. Study **table of contents** .
@@ -106,30 +106,33 @@ Set forth the major parts of the book, and how these are organized into a whole 
 Find the plan behing the book. The best books have the most intelegible structure, but are more complex. Outline the parts of a book and how they exemplify the main theme.
 (1) The author accomplished his plan in five major parts pf whih the first is so and so, the second about such and such... The first major part is divided in three sections of which the first considers X the second Y and the third Z. In the first section of the firt part the author makes four points. The first is A, the second B...
 Only needed an aproximation of this. And does not need to be done explicitly, but while reading the book if you are experienced. Only appply this rule very well with few books. With others a rough notion is fine. No book deserves a perfect outline. Basically divide the book in parts and the</details>
-4. Define the problem or problems the author is trying to solve.<details>You should be able to state the main questions that the book tries to answer, and divide it into subquestions if the first is too complex.</details>
+4. Define the problem or problems the author is trying to solve.<details><summary>More</summary>You should be able to state the main questions that the book tries to answer, and divide it into subquestions if the first is too complex.</details>
 
 #### Second stage
 
 Interpreting the contents
 
-5. Find the important words and thorugh them come to terms with the author.<details>Determine the meaning of important words. The ones that give you trouble. That the author tell you how they use it. Important to mark them. Look at the same wods in different contexts to understand it. IN good books terms are well defined </details>
-6. Find the relevant propositions in important sentences.<details><summary>More</summary>Those that require an effort of interpretation. The major affirmations and denials and the reasons are the heart. Ask questions about the meaning of a passage. Most important sentences have important words. One sentence may have more than one proposition. State the propositions in your own words. Explain what the author means by a particular sentence. If you cannot express them with other words, only words have passed from author to reader. If you say you know what an author means but can only repeat his sentence, then you know nothing.</details>
+5. Come to terms with the author.<details>Determine the meaning of important words. The ones that give you trouble. That the author tell you how they use it. Important to mark them. Look at the same wods in different contexts to understand it. IN good books terms are well defined </details>
+6. Find the relevant propositions in key sentences.<details><summary>More</summary>Those that require an effort of interpretation. The major affirmations and denials and the reasons are the heart. Ask questions about the meaning of a passage. Most important sentences have important words. One sentence may have more than one proposition. State the propositions in your own words. Explain what the author means by a particular sentence. If you cannot express them with other words, only words have passed from author to reader. If you say you know what an author means but can only repeat his sentence, then you know nothing.</details>
 
 7. Locate or construct the basic arguments of the author from sentences.<details><summary>More</summary>find the paragraphs that state the important arguments ubt if the arguments are not epressed, construct them by taking a sentece from each paragraph. Write on paper the propositions. Put numbers in the margins. Normal is two arguments in a paragraph. Propaganda leaves things unsaid that should be made explicit but not becasue they might be challenged. Any good argument can be put in a nutshell. Every argument involves a number of statements. Look for assumptinos or self-evident facts</details>
 
-8. Find out what problem the author has solved, what has not and if he did not know he had nt solved it. <details><summary>More</summary>Which of the problems that the author tried to solve did he succed in solvig? Did he raise any new problem?
+8. Discern problem the author has or has not solved. <details><summary>More</summary>State what problems the author failed to solve.</details>
 
 ### Third Stage
 
-The profit in good conversation is something learned. Now the reader talks back to the author. He has an bligatino to do it. The activity of reading does not end with understanding what the book says. It must be completed by the work of criticism the work of judging. There is a tendency to think that a good book is above the criticism of the average reader. Previous to criticism you must understand. The most teachable reader is the most critical. He responds to a book with the greatest effort to make his own mind on the matters the author has discussed. To regard anyone except yourself as responsible for your judgment is to be a slave. Understand rethoric to avoid being decieved.
+Critizing book as a communication of knowledge.
 
-9. You must be absolutely certain you understand the author before you say "I aggre", "I disagree" or "I suspend judgment"<details><summary>More</summary>Disagreeing takes as much judgment as agreeing.You uderstand when you can state the author position in other wordd.</details>
+Now the reader talks back to the author. Reading does not end with understanding what the book says. It must be completed by the work of criticism the work of judging. A good book is not above the criticism of the average reader. The most teachable reader is the most critical. He responds to a book with the greatest effort to make his own mind on the matters the author has discussed. To regard anyone except yourself as responsible for your judgment is to be a slave.
 
-10. Do not be disputateous or contentious <details><summary>More</summary>He who regards a conversation as a battle can win only by being an antagonist. You should be as prepared to agree as to disagree with the author. You main objective is reaching the truth together.</details>
+9. Understand the author before critizing. <details><summary>More</summary>To critize is not limited to disagreeing. Understanding means you can state the author position in your own words. If you do not understand good books it is your fault.</details>
 
-11. Give reasons for critical judgment of the ideas.<details><summary>More</summary>The reader who does not distinguish between reasoned knowledge and expression of opinion is not reading to learn. Knowledge are opininos that can be defended. Opinion is unsupported judgment.</details>
+10. Do not be disputateous or [contentious](quotes.html#contentiousness) disagreeing. <details><summary>More</summary>He who regards a conversation as a battle can win only by being an antagonist. Be as prepared to agree as to disagree with the author. The main objective is reaching the truth together.</details>
 
-12. 
+11. Give logical reasons for critical judgment.<details><summary>More</summary>Distinguish between reasoned knowledge and expression of opinion. Knowledge are opininos that can be defended. Opinion is unsupported judgment. Acknowledge emotions, we are animals. Make your assumptions explicit. Attempt impartiality. Sine qua non. Critics: (1) You are uninformed, state the knowledge that the author lacks and show how it is relevant, how it makes a difference to conclusions. (2) You are misinformed, only if releveant to author conclusions. (3) You are ilogical (4) Your analysis is incomplete, author not solved all the problems he started with, he has not made good use of his materials, he did not see all the implications o ramifications he ha failed to make distinctions relevant. Be definite about these remarks and give reasons. If you cannot say that the author is uninformed, misinformed or illogical on relevant matters, you simply cannot disagree. You must agree. Suspended judgement on the reader's part responds to an author's failure to solve his problems perfectly. - Show where in the author is uninformed (disagreement).- Show wherein the author is misinformed (disagreement). - Show wherein the author is illosgical (disagreement). - Show wherein the author's analysis is incomplete. (suspend judgment)
+</details>
+
+
 
 ### Questions to ask
 
@@ -138,7 +141,7 @@ The profit in good conversation is something learned. Now the reader talks back 
 3. Is the book true, in whole or part?
 4. What of it?
 
-## On reading speed
+## Reading speed
 
 The ideal is to be able to read at **different** speeds and to know which is **appropriate**.
 Most books have material that ought to be read **quickly** and material that ought to be read **very slowly**.

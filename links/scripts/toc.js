@@ -12,8 +12,10 @@
  // Get the h2 tags — ToC entries
  headers = document.getElementsByTagName("h2");
 
-if (headers.length === 0) {
+if (headers.length <= 1) {
   toc.remove();
+  tocHeader.remove();
+  tocList.remove();
 }
 
  // For each h2

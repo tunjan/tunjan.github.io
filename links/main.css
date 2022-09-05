@@ -95,6 +95,7 @@ main li details {
 
 details > summary {
     /* list-style-type: none; */
+    margin-bottom: 1em;
     font-weight: normal;
 }
 
@@ -130,7 +131,6 @@ main ul,
 ol {
     padding-left: 2em;
     margin-bottom: 2em;
-    list-style-type: default;
 }
 
 

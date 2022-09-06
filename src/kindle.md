@@ -17,4 +17,4 @@ calibre
 
 ### No internet
 
-### Diccionaries I use
+### Dictionaries I use

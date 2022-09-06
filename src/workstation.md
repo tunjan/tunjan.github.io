@@ -7,7 +7,7 @@ is_draft: false
 
 The workstation is a laptop inherited from my sister. She bought a new one because the current one could not keep up with Microsoft **Windows** updates and was getting too slow. Thus, I replaced the operating system with Arch **Linux**. Since then, I have been using it for 3 years as a daily driver. 
 
-May this case serve to demonstrate how big tech companies keep producing bad software, causing the need for the common citizen to keep upgrading their electronics unnecesarily, producing endless waste.
+May this case serve to demonstrate how big tech companies keep producing bad software, causing the need for the common citizen to keep upgrading their electronics unnecessarily, producing endless waste.
 
 ## Specifications
 

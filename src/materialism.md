@@ -15,7 +15,7 @@ Thermal shirt
 
 Travel backpack
 
-Deacthlon watch
+Decathlon watch
 
 Gloves
 

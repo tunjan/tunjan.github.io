@@ -4,7 +4,7 @@ layout: default.liquid
 ---
 
 If you disagree seek agreement. Be prepared to change you mind.
-You might misunderstand or be ignorant. Disagreemnt can be for teaching but also for being taught.
+You might misunderstand or be ignorant. Disagreement can be for teaching but also for being taught.
 
 ## Sine qua non
 

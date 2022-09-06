@@ -17,7 +17,7 @@ which had a war recently started by a neighbour country. However, given the circ
 myself to be at the time of decision. Moldova offered me the easiest approval to initiate an adventure.
 
 If I had not found myself discontented with my current life-style, and feeling that it was not life that I was living.
-It would be doubitous? for me to have undertaken such a manner to eradicate the means by which I used to sustain.
+It would be dubious? for me to have undertaken such a manner to eradicate the means by which I used to sustain.
 Thus, I owe to Thoreau, Seneca and Marcus Aurelius the courage and wisdom they passed to me by as many words as endeavors 
 they took during their own lifetimes.
 
@@ -37,7 +37,7 @@ Or am I so fool as to forget what I have while seeking what is not mine?.
 Every morning I was compelled to enjoy nature, and so took my legs and thoughts to the forest. How best to spare the
 best hours of the day? Nay, the best of existence itself. Being in bed was a waste of time to me when I could be listening
 and observing how spiders and birds went by their usual affairs, which I dare say to be much more interesting than of us humans.
-The wild take only the present and enkoy it to its fullest, while us humans spend most of our present tither and hither, 
+The wild take only the present and enjoy it to its fullest, while us humans spend most of our present tither and hither, 
 fearing the future, loathing the past.
 It is said that we, _homo sapiens_ are above all species, due to our ability of reason. Though I have met a few who developed it enough
 to be above spiders. That is why it is called ability, because you are _able to_ not because you are born with it.

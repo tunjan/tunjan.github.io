@@ -15,5 +15,5 @@ layout: default.liquid
 
 - Functions do not follow top-to-bottom flow. They can be used in all the same scope.
 
-- Extra arguments in functions get ignored. Arguments not passed get asigned 'undefined'.
+- Extra arguments in functions get ignored. Arguments not passed get signed 'undefined'.
 

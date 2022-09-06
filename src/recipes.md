@@ -11,7 +11,7 @@ is_draft: false
 
 <summary> Ingredients </summary>
 
-  - 2 tbps **olive oil**
+  - 2 tbsp **olive oil**
   - 1 **onion** (diced)
   - 2 - 3 **carrots** (diced)
   - 2 **celery** ribs (diced)
@@ -35,8 +35,8 @@ is_draft: false
 <summary> Instructions </summary>
 
  1. Heat olive oil in pot.  
- 2. Add garlic, onion, carrots & celery. Sauté for 5 minutes.
- 3. Add paprika, curry & cumin. Sauté 1 minute.
+ 2. Add garlic, onion, carrots & celery. Saute for 5 minutes.
+ 3. Add paprika, curry & cumin. Saute 1 minute.
  4. Add green beans, tomatoes, potatoes, lentils, and broth/water. Simmer 30 - 35 minutes.
  5. Add spinach/kale. Stir for 5 minutes.
  6. Add lemon juice, and salt or pepper.
@@ -56,7 +56,7 @@ is_draft: false
 <summary> Ingredients </summary>
 
  
-  - 2 tbps **olive oil**
+  - 2 tbsp **olive oil**
   - 2 Bell Peppers (diced)
   - 1 **onion** (diced)
   - 4 cloves **garlic** (minced)

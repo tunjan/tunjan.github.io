@@ -73,7 +73,7 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Chia
   - Cashew
   - Almonds
-  - Flaxseed
+  - Flax seed
   - Sunflower seeds
   - Tahini (sesame seeds)
 
@@ -91,7 +91,7 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   - Cranberries
   - Strawberries
   - Grapes
-  - Perssimon
+  - Persimmon
 
   </details>
 
@@ -108,7 +108,7 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
   </details>
 
 <details>
-<summary> Miscelaneous </summary>
+<summary> Miscellaneous </summary>
 
   - Extra virgin olive oil
   - Sesame oil
@@ -127,12 +127,12 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
 
 - **Mince**: to cut into small pieces
 - **Dice**: to cut into small cubes
-- **Sauté**: to fry (food, such as small pieces of meat or vegetables) in a small amount of fat.
+- **Saute**: to fry (food, such as small pieces of meat or vegetables) in a small amount of fat.
 - **Simmer**: to cook slowly in a liquid just below the boiling point
 
 ## References
   
-[GrimGrains target](https://grimgrains.com/)
+[Grim Grains target](https://grimgrains.com/)
 [Vegan health](https://veganhealth.org/)
 [Sprouting](https://grimgrains.com/site/sprouting.html)
 

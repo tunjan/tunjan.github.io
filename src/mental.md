@@ -17,14 +17,14 @@ now to judge people based on its clothes.<br>
 
 — It is obvious that your mind wants to do those things. After all, you have trained it all your life to do so. But now you have the choice, you have become empowered. Will you chase after her, or invest your time wisely?.</em>
 
-It is yours the decision to engage in compulsions to avoid feelings of boredom, anxiety, uncertainty and impatience. Nonetheless, it is yours too, to accept (not trying to supress) those feelings which the mind generates to protect you, and commit to actions which spring from wisely selected values and beliefs. Briefly stated, to achieve freedom from the slavery of the mind.
+It is yours the decision to engage in compulsions to avoid feelings of boredom, anxiety, uncertainty and impatience. Nonetheless, it is yours too, to accept (not trying to suppress) those feelings which the mind generates to protect you, and commit to actions which spring from wisely selected values and beliefs. Briefly stated, to achieve freedom from the slavery of the mind.
 
-PD: It must be noted, that meditation is a critical practice which allows one to become an addept at recognizing the thoughts and distractions the mind throws at us, viewing them with curiosity. After all, it's the mind, not you. 
+PD: It must be noted, that meditation is a critical practice which allows one to become an adept at recognizing the thoughts and distractions the mind throws at us, viewing them with curiosity. After all, it's the mind, not you. 
 
 ## Quotes
 
 <q>You can pour the rest of your life into trying not to be anxious and trying to prevent your worries from coming true, 
-and all you'll have done is focused your energy on things that did't even happen and you didn't even want to think about</q>
+and all you'll have done is focused your energy on things that didn't even happen and you didn't even want to think about</q>
 
 <q>If you hand over control of your value to others, expect them to waste it. They won't know you've put them in charge of the only thing you own.</q>
 
@@ -38,15 +38,15 @@ and closer to the end of the life you could have had</q>
 
 - **Mental health** : learning to handle feelings you do not like, while taking action in alignment with your values.
 
-- **Compulsion** : anything you do to cope with, chek on, or control uncertainty, anxiety and other feelings you don't like.
+- **Compulsion** : anything you do to cope with, check on, or control uncertainty, anxiety and other feelings you don't like.
 
 - **Mindfulness** : the awareness that arises through paying attention on purpose in the present moment-non-judgmentally.
 
-- **Controling** : trying to prevent experiences we do not like.
+- **Controlling** : trying to prevent experiences we do not like.
 
 - **ACT** : _Accept_ your reactions and be present. _Choose_ a valued direction. _Take_ action. 
 
-- **Cognitive defusion** : therapy to recognize the stuff in your head is stuff you experience. Not you.
+- **Cognitive diffusion** : therapy to recognize the stuff in your head is stuff you experience. Not you.
 
 ## Meditations
 
@@ -68,9 +68,9 @@ If needed to check to feel safe. A <strong>prerequisite</strong> for feeling saf
 
 Do not stop using X to avoid compulsions, use it as you would like to use it.
 
-You do not have to answer every preocupation the brain throws at you.
+You do not have to answer every preoccupation the brain throws at you.
 
-If you are present while doing things, the necessity to check dissapears.
+If you are present while doing things, the necessity to check disappears.
 
 Your brain might throw thoughts or judgements to you, recognize that and act as you value. Your thoughts are not you, you cannot control them.
 
@@ -108,8 +108,8 @@ Mental health; the same as physical fitness.
 
 Barriers: 
   - Believing you are unique
-  - Trying to get understaning
-  - Systems of compulsions not dismanteled
+  - Trying to get understanding
+  - Systems of compulsions not dismantled
   - Avoiding relapse
 
 Everyone faces similar mental health challenges. We are humans.
@@ -126,7 +126,7 @@ Everyone faces similar mental health challenges. We are humans.
 
   - **Description** : practice mindfulness while doing everyday tasks. Such as cleaning, cooking or walking. 
 
-  - **Examples** : (1) Walking without obssesing with things in your head. (2) When talking with others just focus on listening without judging or worrying of what you have to say. (3) See something without planning a million other things in your head. (4) Open your senses to the meal you are cooking , recognize the work that went to the food.
+  - **Examples** : (1) Walking without obsessing with things in your head. (2) When talking with others just focus on listening without judging or worrying of what you have to say. (3) See something without planning a million other things in your head. (4) Open your senses to the meal you are cooking , recognize the work that went to the food.
 
 ### Meditate
 
@@ -136,7 +136,7 @@ Better described in [meditation](meditation.html).
 
 - **Description** : Articulate your values. Make sure you can edit them, they will evolve.
 
-- **Examples** : valuing poeple for their character not for their clothes. avoiding harm to others (including animals and earth).
+- **Examples** : valuing people for their character not for their clothes. avoiding harm to others (including animals and earth).
 
 ### The Hierarchy
 
@@ -168,15 +168,15 @@ Better described in [meditation](meditation.html).
 
 ### Practising possibility
 
-**Description** : to be able to imagine things going well and going bad. imagine fantastycal scenarios to practice cognitive difusion.
+**Description** : to be able to imagine things going well and going bad. imagine fantastical scenarios to practice cognitive diffusion.
 
-**Examples** : worried because going to an island. Imagine youself riding with dolphins to get there.
+**Examples** : worried because going to an island. Imagine yourself riding with dolphins to get there.
 
 ### Annoying kids in a car
 
 **Description** : imagine you are in a car with toddlers in the backseats screaming at you. You follow your GPS to the destination (guided by your values) and try to enjoy the ride while hearing the toddlers scream. You cannot reason with the toddlers. You cannot do anything to them. But hey cannot do anything to you.
 
-**Notes** : practice that when your brain starts catastrophizing or thowing axieties and compulsions.
+**Notes** : practice that when your brain starts catastrophizing or throwing anxieties and compulsions.
 
 ### The switch list
 
@@ -192,27 +192,27 @@ Better described in [meditation](meditation.html).
 
 ### Make your beliefs visible
 
-**Description** : articulate your beliefs, make them tangible. Then do things with them (filter between oponions ans facts, which are under my control...)
+**Description** : articulate your beliefs, make them tangible. Then do things with them (filter between opinions ans facts, which are under my control...)
 
 **Examples** : I am valued if I get compliments
 
-### Nonjudgement
+### Non judgement
 
 **Description** : go to a busy place, notice what pops into your head. Can you see people without judging them? Can you see their actions as actions
 without attaching extra labels?
 
-**Questions** : Can you prevent the judgement that triggers the feelings you do not like? When you judge things, can you choose to do something you vlue instead of engaging in a compulsion and giving up contrl of your life to that judgement?
+**Questions** : Can you prevent the judgement that triggers the feelings you do not like? When you judge things, can you choose to do something you value instead of engaging in a compulsion and giving up control of your life to that judgement?
 
 
 ### Loving-kindness meditation
 
-**Description** : bring to mind something that makes you happy in a meditation session. bring to mind somethng you hate, practice non.judgement, show kindness. Then show kindness toward yourself.o
+**Description** : bring to mind something that makes you happy in a meditation session. bring to mind something you hate, practice non.judgement, show kindness. Then show kindness toward yourself.o
 
 ### What's on your path?
 
 **Description** : have a map of behaviours so you know when you are drifting from your health.
 
 **Instructions** : three columns. 1st column(tha path): what are you going to do each day to be healthy and happy and work toward your goals in life?. 2
-nd column (off the path): thing that you consider missaligned with who you are and where you want to be in life. 3rd column (just off the path): actions that set you up to going off way.
+nd column (off the path): thing that you consider misaligned with who you are and where you want to be in life. 3rd column (just off the path): actions that set you up to going off way.
 
 **Examples** : on the path (volunteering) just off the path (procrastinating on cleaning) way off the path (lying to people)

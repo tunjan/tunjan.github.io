@@ -25,7 +25,7 @@ examples in ``` ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snipp
 
 - U+2014 -> —
 
-## Miscelaneous
+## Miscellaneous
 
 - **Download website**: ```wget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off https://example.com```
 

@@ -7,7 +7,7 @@ is_draft: false
 
 ### 22/08/22
 
-Added responsive design stylesheet
+Added responsive design style-sheet
 
 ### 23/08/2022
 

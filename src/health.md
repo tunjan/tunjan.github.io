@@ -5,7 +5,7 @@ layout: default.liquid
 is_draft: false
 ---
 
-<q>A state of complete physical, mental and social well-being and not merely yhe absence of disease and infirmity</q>
+<q>A state of complete physical, mental and social well-being and not merely the absence of disease and infirmity</q>
 <cite> World Health Organization </cite>
 
 {%- for item in site.data.structure.nav -%}

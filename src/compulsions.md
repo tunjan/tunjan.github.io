@@ -8,7 +8,7 @@ is_draft: false
 # An irrational need or irresistible urge to perform some action, often despite negative consequences.
 
 These compulsions are actions my body performs when my mind is in a stressed or anxious state. I have found meditation not only a good way to overcome them,
-but to notice them too. Overtime I have noticed the existance of mental compulsions too, such as thinking too much on the future, or the act of worrying.
+but to notice them too. Overtime I have noticed the existence of mental compulsions too, such as thinking too much on the future, or the act of worrying.
 These mental habits steal our time from the present, making us suffer in imagination.
 
 ## Present

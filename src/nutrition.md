@@ -5,10 +5,10 @@ layout: default.liquid
 is_draft: false
 ---
 
-## Miscelaneous
+## Miscellaneous
 
-- Vitamin C increseases Iron absortion.
-- Rice + Beans include all basic aminoacids
+- Vitamin C increases Iron absorption.
+- Rice + Beans include all basic amino-acids
 - Phytic acid is a potent inhibitor of iron absorption, even at low concentrations. [[1](https://academic.oup.com/jn/article/137/4/1097/4664654)]
 
 ## Requirements
@@ -26,10 +26,10 @@ is_draft: false
  - 3 serving of beans per day
  - 1 serving of berries per day
  - 3 servings of fruit per day
- - 1 serving of cruciferous vegetables per day
+ - 1 serving of calciferous vegetables per day
  - 2 servings of greens per day
  - 2 Servings of other vegetables per day
- - 1 serving of flaxseeds per day
+ - 1 serving of flax-seeds per day
  - 1 Serving of nuts & seeds per day
  - 1 serving of herbs and spices per day
  - 3 servings of whole grains per day
@@ -48,7 +48,7 @@ is_draft: false
 ## Meal planning
 
   Best method is to think in advance what you are going to eat for the next 5 days,
-  and buy just enough to avoid wasting food. This is most necesary for vegetables, as they perish quicker than other edibles.
+  and buy just enough to avoid wasting food. This is most necessary for vegetables, as they perish quicker than other edibles.
   Look for vegan recipes in resources aimed toward budget meals. You'll save some money and time looking for extravagant and imported provisions.
   * Remember to place here my meal plan (or make it now?).
 
@@ -59,11 +59,11 @@ is_draft: false
 
 - Daily intake 8.7 mg
 
-- Sources: lentils, chickpeas, beans, tofu, cashew, chia, linseed, hempseed, kale, quinoa.
+- Sources: lentils, chickpeas, beans, tofu, cashew, chia, linseed, hemp-seed, kale, quinoa.
 
 - More iron is absorbed when your body needs more iron.
 
-- Tea & cofee inhibit Iron absortion.
+- Tea & coffee inhibit Iron absorption.
 
 - Vitamin C increases iron absorption.
 
@@ -85,7 +85,7 @@ is_draft: false
  <details>
 <summary> Protein </summary> 
 
-- Dily intake 1g per kg of body weight.
+- Daily intake 1g per kg of body weight.
 - Plants can provide all the [essential amino acids](https://en.wikipedia.org/wiki/Essential_amino_acid)
 - Sources: beans, lentils, chickpeas, tofu, soya alternatives to milk and yoghurt, or peanuts.
 

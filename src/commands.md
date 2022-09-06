@@ -30,3 +30,5 @@ examples in ``` ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snipp
 - **Download website**: ```wget --wait=2 --level=inf --limit-rate=20K --recursive --page-requisites --user-agent=Mozilla --no-parent --convert-links --adjust-extension --no-clobber -e robots=off https://example.com```
 
 - **Start server** : ```python3 -m http.server 8000```
+
+- Check <a target="_blank" href="http://aspell.net/man-html/Spellchecking-Individual-Files.html#Spellchecking-Individual-Files">Spelling</a>: ```for f in *.md; do aspell check -l en -mode markdown $f; done```

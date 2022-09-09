@@ -25,7 +25,7 @@ layout: default.liquid
 - **Meditations**: Marcus Aurelius
 - **You are not a Rock** Mark Freeman
 - **Walden**: Henry David Thoreau
-- **The mind iluminated**: 
+- **The mind illuminated**: 
 - **On the shortness of life**: Seneca
 - **The Journals**: Henry David Thoreau 
 - **On the Shortness of life**: Seneca 

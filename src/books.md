@@ -11,11 +11,12 @@ layout: default.liquid
 
 - **The republic**: Plato
 - **Self-reliance**: Ralph Waldo Emerson
-- **Beyond Good & Evil**: Friedrich Nietzche
+- **Beyond Good & Evil**: Friedrich Nietzsche
 - **Industrial Society and Its Future**: Theodore Kaczynski
 - **Time and free will**: Henry David Thoreau
 - **Utopia**: Thomas More
 - **The Wealth of Nations**: Adam Smith
+- **The Human Condition**: Hannah Ardent 
 
 ## 2022
 

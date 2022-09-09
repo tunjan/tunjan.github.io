@@ -5,10 +5,18 @@ layout: default.liquid
 is_draft: false
 ---
 
-### 22/08/22
+### 06/09/2022
+
+Entered Moldova journal
+
+### 22/08/2022
 
 Added responsive design style-sheet
 
 ### 23/08/2022
 
 Added mental health page
+
+### 15/08/2022
+
+Travel to moldova

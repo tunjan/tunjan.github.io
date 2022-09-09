@@ -1,11 +1,78 @@
-<h2>Ethical rules</h2>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="../links/main.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="Subscribe to this page..." href="rss.xml">
+<meta name="author" content="Tunjan">
+<meta property="og:image" content="https://tunjan.github.io/media/logo.png">
+<link rel="shortcut icon" type="image/png" href="/media/logo.png">
+<link rel="icon" type="image/png" href="/media/logo.png"/>
+<meta charset="utf-8">
+<title>Tunjan ‒ about</title>
+   
+    </head>
+    <body>
+      <header>
+        <a href="home.html">
+  <img src="../media/logo.png" width ="80px">
+</a>
+
+<form id="form">
+  <input type="search" id="search" autocomplete="off">
+  <input type="submit" id="submit">
+</form>
+
+<script>
+  const f = document.getElementById('form');
+  const s = document.getElementById('search');
+  function submitted(event) {
+        event.preventDefault();
+        const url = s.value + '.html';
+        const win = window.open(url, '_self');
+        win.focus();
+      }
+  f.addEventListener('submit', submitted);
+</script>
+
+      </header>
+     <nav><ul><li>
+          <a id="selected" href="about.html">about</a>
+        </li><li>
+          <a href="directory.html"> directory</a>
+        </li><li>
+          <a href="projects.html"> projects</a>
+        </li><li>
+          <a href="knowledge.html"> knowledge</a>
+        </li></ul><ul><li>
+          <a href="meta.html"> meta</a>
+        </li><li>
+          <a href="personal.html"> personal</a>
+        </li></ul>
+  </nav>
+     <main>
+     <div id="ToC"></div>
+     
+        <h2>Life of virtue</h2>
+<p>A life of virtue is that in which to act morally is a pleasure in itself. And figuring out
+how to do so is fun.</p>
+<h2>Rules</h2>
 <ul>
 <li>Avoid proprietary software and hardware.</li>
 <li>Do not eat animals or their by-products.</li>
-<li>Do not consumed processed foods.</li>
+<li>Do not consume processed foods.</li>
 <li>Do not over-schedule.</li>
-<li>Be curious.</li>
 <li>Only buy necessary products.</li>
 <li>Value people for their character and wisdom, not their appearances.</li>
 <li>Always make sure your freedom does not steal others freedom. (mobile phones are produced by enslaved Asian people)</li>
 </ul>
+
+      </main>
+      <footer><hr />
+<span style='float:right'>Built on Thu Sep  8 13:42:02 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
+<br/>
+</span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
+</footer>
+    <script src="../links/scripts/toc.js"></script>
+    </body>
+</html>

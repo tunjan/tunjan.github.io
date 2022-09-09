@@ -48,18 +48,13 @@ header input[id="submit"] {
 }
 
 header form input {
-    border-top: none;
-    border-left: none;
-    border-right: none;
     outline: none;
     caret-color: transparent;
-    top: 1em;
     line-height: 2em;
+    text-align:center;
     width: 80px;
     font-size: 0.4em;
-    right: 2em;
-    border-bottom: 1px solid black;
-    margin-top: -2px;
+    border: 2px solid black;
     font-family: monospace;
 }
 
@@ -71,15 +66,16 @@ nav ul {
 
 nav ul li {
     list-style-type: none;
-    padding: 0.25em;
+    margin: 0.25em;
+    transition: all 0.25s;
 }
 
 nav ul li:hover {
-    list-style-type: "\0203A";
+    transform: translateY(-0.15em);
 }
 
 nav ul li a#selected:before {
-    content: "\27A2    ";
+    content: "\27A2  ";
 }
 
 main {

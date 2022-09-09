@@ -1,0 +1,13 @@
+{%- if site.data.structure.nav[0] -%}
+
+ {%- for item in site.data.structure.nav -%}
+
+   {%- if item.folder == page.title -%}
+
+     <h3> <a href="{{item.name}}.html">{{item.name}}</a> </h3>
+    
+   {%- endif -%}
+  
+ {%- endfor -%}
+
+{% endif %}

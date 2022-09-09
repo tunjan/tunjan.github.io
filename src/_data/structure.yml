@@ -3,6 +3,7 @@ nav:
 - name: home
   folder: 
   rank: 0
+  type: portal
 
 - name: about
   folder: home
@@ -16,7 +17,7 @@ nav:
   folder: meta
   rank: 3
 
-- name: logs
+- name: devlog
   folder: meta
   rank: 3
 
@@ -25,6 +26,10 @@ nav:
   rank: 2
 
 - name: values
+  folder: personal
+  rank: 3
+
+- name: logs
   folder: personal
   rank: 3
 
@@ -134,11 +139,11 @@ nav:
 
 - name: solarpunk
   folder: projects
-  rank: 3
+  rank: 2
 
 - name: development
   folder: projects
-  rank: 3
+  rank: 2
 
 - name: knowledge
   folder: home

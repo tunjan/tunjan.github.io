@@ -50,7 +50,7 @@ header input[id="submit"] {
 header form input {
     outline: none;
     caret-color: transparent;
-    line-height: 2em;
+    line-height: 2.5em;
     text-align:center;
     width: 80px;
     font-size: 0.4em;

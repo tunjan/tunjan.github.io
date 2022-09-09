@@ -16,6 +16,12 @@
       <img src="../media/{{page.data.image}}">
      {% endif %}
         {{ page.content }}
+      {% if page.data.type  %}
+        {%- if page.data.type == 'portal' -%}
+          {%- include "portal.liquid" -%}
+        {%- endif -%}
+      {% endif %}
+
       </main>
       <footer>
         {%- include "footer.liquid" -%}

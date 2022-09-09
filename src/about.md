@@ -3,7 +3,7 @@ title: about
 published_date: "2022-07-14 08:48:07 +0000"
 layout: default.liquid
 is_draft: false
-data: {image: tunjan.png}
+data: {image: tunjan.png, type: none}
 ---
 
 # Personal logging system

@@ -36,6 +36,10 @@ nav:
   folder: personal
   rank: 3
 
+- name: routine
+  folder: lifestyle
+  rank: 4
+
 - name: cooking
   folder: lifestyle
   rank: 4

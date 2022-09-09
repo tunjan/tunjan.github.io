@@ -3,10 +3,20 @@ title: about
 published_date: "2022-07-14 08:48:07 +0000"
 layout: default.liquid
 is_draft: false
-data: {image: }
+data: {image: tunjan.png}
 ---
 
+# Personal logging system
 
-This site serves the purpose of growing a garden of ideas, knowledge and interests. Making a few but deliberate improvements over time to each page.
+This **wiki** aims to be a personal logging system of, <a href="knowledge.html">knowledge</a>, projects and studies. Making a few but deliberate improvements over time to each page.
 
-The implementation of the website aims to make addition and edition of content as easy and systematic as possible. Thus, avoiding putting off its growth and daily refinement.
+The implementation of the website attempts to make addition and edition of content as easy and systematic as possible. Thus, avoiding putting off its growth and daily refinement.
+
+The files are compiled through the <a target="_blank" href="https://cobalt-org.github.io">Cobalt</a> static site generator.
+It takes everyting in the `src` folder and builds it into the `site` directory.
+
+## Minimal
+
+The core philosophy behind the site, is to make it as **resilient** as possible to future technologies. Thus, no frameworks are employed, and no dependencies needed. Javascript functionality is totally optional while the CSS does take only a few lines of code.
+
+The <a target="_blank" href="https://github.com/tunjan/tunjan.github.io"><strong>source</strong></a> can be freely accesed and downloaded through github. 

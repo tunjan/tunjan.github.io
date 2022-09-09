@@ -6,7 +6,7 @@ is_draft: false
 ---
 ## Tools
 
-I always try to use as [few](./lifestyle.html) tools as possible when creating anything. It helps me save time in organization and cleaning. In addition, restricting yourself to a few, common tools forces your imagination to come up with new ways to do things.
+I always try to use as [few](./lifestyle.html) tools as possible when creating anything. It helps me save time in organization and cleaning. In addition, limitting yourself to a handful of common tools forces your imagination to come up with new ways to do things.
 
 - Frying pan (Non-stick, cast iron)
 - Saucepan

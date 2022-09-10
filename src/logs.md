@@ -7,15 +7,11 @@ is_draft: false
 
 ### 06/09/2022
 
-Entered Moldova journal
+Started writting Moldova journey
 
 ### 22/08/2022
 
-Added responsive design style-sheet
-
-### 23/08/2022
-
-Added mental health page
+Got 88/180 in JLPT N4 Japanese exam
 
 ### 15/08/2022
 

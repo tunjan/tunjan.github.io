@@ -13,10 +13,10 @@ This **wiki** aims to be a personal logging system of, <a href="knowledge.html">
 The implementation of the website attempts to make addition and edition of content as easy and systematic as possible. Thus, avoiding putting off its growth and daily refinement.
 
 The files are compiled through the <a target="_blank" href="https://cobalt-org.github.io">Cobalt</a> static site generator.
-It takes everyting in the `src` folder and builds it into the `site` directory.
+It takes everything in the `src` folder and builds it into the `site` directory.
 
 ## Minimal
 
-The core philosophy behind the site, is to make it as **resilient** as possible to future technologies. Thus, no frameworks are employed, and no dependencies needed. Javascript functionality is totally optional while the CSS does take only a few lines of code.
+The core philosophy behind the site, is to make it as **resilient** as possible to future technologies. Thus, no frameworks are employed, and no dependencies needed. JavaScript functionality is totally optional while the CSS does take only a few lines of code.
 
-The <a target="_blank" href="https://github.com/tunjan/tunjan.github.io"><strong>source</strong></a> can be freely accesed and downloaded through github. 
+The <a target="_blank" href="https://github.com/tunjan/tunjan.github.io"><strong>source</strong></a> can be freely accessed and downloaded through GitHub. 

@@ -20,6 +20,7 @@ layout: default.liquid
 
 ## 2022
 
+- **Vices and Virtue**: Aristotle 
 - **Notebooks**: Leonardo Da Vinci
 - **How to read a <a href='reading.html'>book</a>**: Mortimer J. Adler
 - **Letters from a Stoic**: Seneca

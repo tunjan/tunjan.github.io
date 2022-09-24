@@ -7,7 +7,7 @@ is_draft: false
 
 ### 06/09/2022
 
-Started writting Moldova journey
+Started writing Moldova journey
 
 ### 22/08/2022
 
@@ -15,4 +15,4 @@ Got 88/180 in JLPT N4 Japanese exam
 
 ### 15/08/2022
 
-Travel to moldova
+Travel to Moldova

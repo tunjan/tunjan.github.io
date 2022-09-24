@@ -17,6 +17,10 @@ deficiencies.</q>
 2. Expect the output of every program to become the input to another, as yet unknown, program.
 3. Write programs to handle text streams, because that is a universal interface.
 
+### Names
+
+
+
 ## References
 
 [Unix](https://en.wikipedia.org/wiki/Unix_philosophy)

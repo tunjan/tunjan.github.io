@@ -16,6 +16,7 @@ examples in ``` ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snipp
 - **Hardware Info**: ```lshw -short```
 - **Device model**: ```sudo dmidecode -s system-product-name```
 - **Battery status**:  ```upower -e;  upower -i /org/freedesktop/UPower/devices/battery_BAT1```
+- **Enable touchpad while typing**: ```xinput list-props``` select input ```xinput set-prop [input-number] [property number] [state]```
 
 ## Git
 
@@ -32,3 +33,5 @@ examples in ``` ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snipp
 - **Start server** : ```python3 -m http.server 8000```
 
 - Check <a target="_blank" href="http://aspell.net/man-html/Spellchecking-Individual-Files.html#Spellchecking-Individual-Files">Spelling</a>: ```for f in *.md; do aspell check -l en -mode markdown $f; done```
+
+- **Reduce Video Size**:ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4

@@ -71,6 +71,7 @@ examples in <code> ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/sn
 <li><strong>Hardware Info</strong>: <code>lshw -short</code></li>
 <li><strong>Device model</strong>: <code>sudo dmidecode -s system-product-name</code></li>
 <li><strong>Battery status</strong>:  <code>upower -e;  upower -i /org/freedesktop/UPower/devices/battery_BAT1</code></li>
+<li><strong>Enable touchpad while typing</strong>: <code>xinput list-props</code> select input <code>xinput set-prop [input-number] [property number] [state]</code></li>
 </ul>
 <h2>Git</h2>
 <ul>
@@ -91,13 +92,16 @@ examples in <code> ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/sn
 <li>
 <p>Check <a target="_blank" href="http://aspell.net/man-html/Spellchecking-Individual-Files.html#Spellchecking-Individual-Files">Spelling</a>: <code>for f in *.md; do aspell check -l en -mode markdown $f; done</code></p>
 </li>
+<li>
+<p><strong>Reduce Video Size</strong>:ffmpeg -i input.mp4 -vcodec libx265 -crf 28 output.mp4</p>
+</li>
 </ul>
 
       
 
       </main>
       <footer><hr />
-<span style='float:right'>Built on Sat Sep 10 14:56:34 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
+<span style='float:right'>Built on Sat Sep 24 08:23:44 2022<a href='https://github.com/tunjan/tunjan.github.io'> [Github]</a>
 <br/>
 </span> Tunjan © 2022 — <a href='https://github.com/tunjan'>BY-NC-SA 4.0</a>
 </footer>

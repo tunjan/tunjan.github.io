@@ -17,6 +17,9 @@ examples in ``` ~/.local/share/nvim/site/pack/packer/opt/friendly-snippets/snipp
 - **Device model**: ```sudo dmidecode -s system-product-name```
 - **Battery status**:  ```upower -e;  upower -i /org/freedesktop/UPower/devices/battery_BAT1```
 - **Enable touchpad while typing**: ```xinput list-props``` select input ```xinput set-prop [input-number] [property number] [state]```
+- **Show loaded kernel modules**: ```lsmod```
+- **Failed to set power on: org.bluez.Error.Failed**: ```rfkill block bluetooth
+rfkill unblock bluetooth```
 
 ## Git
 

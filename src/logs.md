@@ -5,6 +5,10 @@ layout: default.liquid
 is_draft: false
 ---
 
+### 23/09/2022
+
+Moved to Wroclaw, Poland
+
 ### 06/09/2022
 
 Started writing Moldova journey

@@ -49,6 +49,10 @@ nav:
   folder: lifestyle
   rank: 4
 
+- name: foodies
+  folder: cooking
+  rank: 5
+
 - name: recipes
   folder: cooking
   rank: 5

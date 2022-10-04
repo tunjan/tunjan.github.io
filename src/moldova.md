@@ -11,12 +11,12 @@ Which by many are said to have been too dangerous as to adventure into travel. N
 to be coerced by fear, as most civilized society is kept to-day.
 
 ![Shelter](../media/shelter.jpg)
-![Shower](../media/shower.jpg) 
+![Shower](../media/moldovaShower.jpg) 
 ![Rats](../media/moldovaRat.jpg)
 ![Forest](../media/moldovaForest.jpg) 
 ![Toilet](../media/moldovaBath.jpg)
 ![Market](../media/market.jpg)
-![Cannabis](../media/cannabisBiscuit.jpg)
+![Cannabis Cake](../media/cannabisBiscuit.jpg)
 ![Morning Walk](../media/morningWalk.jpg)
 ![Well](../media/moldovaWell.jpg)
 ![Tomato](../media/orangeTomato.jpg)

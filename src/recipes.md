@@ -71,6 +71,8 @@ is_draft: false
  - Salt
  - Water
 
+</details>
+
 <details>
 
 <summary> Instructions </summary>
@@ -85,6 +87,8 @@ is_draft: false
  8. Mash 1/3 of the chickpeas and add them all to the pot with some water.
  9. Cook until the water has been evaporated and all the spices are well integrated.
  10. If you want to add other vegetables such as potatoes, add then and boil.
+
+</details>
 
 
 ## Chickpea Ratatouille

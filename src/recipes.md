@@ -49,6 +49,44 @@ is_draft: false
 
  </details>
 
+## Chickpea Curry
+
+<details>
+
+<summary> Ingredients </summary>
+
+ - Onion
+ - Garlic
+ - Ginger
+ - Tomatoes
+ - Chickpeas
+ - Cumin seeds
+ - Mustard seeds
+ - Coriander powder
+ - Turmeric powder
+ - Garam masala
+ - Green chilli pepper
+ - Chana Masala
+ - Oil
+ - Salt
+ - Water
+
+<details>
+
+<summary> Instructions </summary>
+
+ 1. Add oil.
+ 2. When the oil is hot add mustard seeds.
+ 3. Add cumin seeds when mustard seeds start splattering.
+ 4. Add onions and salt and cook until brown.
+ 5. Add garlic and ginger, cook for a minute.
+ 6. Add spices, mix and cook for a minute or two.
+ 7. Add diced tomatoes and cook until soft.
+ 8. Mash 1/3 of the chickpeas and add them all to the pot with some water.
+ 9. Cook until the water has been evaporated and all the spices are well integrated.
+ 10. If you want to add other vegetables such as potatoes, add then and boil.
+
+
 ## Chickpea Ratatouille
 
 <details>

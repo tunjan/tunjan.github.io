@@ -20,6 +20,7 @@ layout: default.liquid
 
 ## 2022
 
+- **After Dark**: Haruki Murakami
 - **Vices and Virtue**: Aristotle 
 - **Notebooks**: Leonardo Da Vinci
 - **How to read a <a href='reading.html'>book</a>**: Mortimer J. Adler
@@ -32,3 +33,13 @@ layout: default.liquid
 - **The Journals**: Henry David Thoreau 
 - **On the Shortness of life**: Seneca 
 - **The courage to be disliked**: Ichiro Kishimi
+
+## 2018
+
+- **Kingdom of ash**: Sarah J.Maas
+- **Tower of dawn**: Sarah J.Maas
+- **Queen of shadows**: Sarah J.Maas
+- **Empire of storms**: Sarah J.Maas
+- **Heir of fire**: Sarah J.Maas
+- **Crown of midnight**: Sarah J.Maas
+- **Throne of glass**: Sarah J.Maas

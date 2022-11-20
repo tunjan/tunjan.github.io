@@ -22,12 +22,11 @@ May this case serve to demonstrate how big tech companies keep producing bad sof
 
 ### Software
 
-- **Window Manager**: dwm
+- **Window Manager**: sway
 - **Shell**: zsh
-- **OS**: Arch Linux
-- **Terminal**: st
+- **OS**: Manjaro
+- **Terminal**: foot
 - **Editor**: nvim (nvchad)
 - **Color Scheme**: gruvbox
 - **Input Method**: fcitx
-- **Compositor**: xcompmgr
 - **Browser**: librewolf

@@ -8,7 +8,7 @@ is_draft: false
 
 Useful items that get used almost everyday.
 
- - [workstation](/src/workstation.html)
+ - [workstation](workstation.html)
  - Kindle Paperwhite (2018)
  - Resistance bands
  - Bike

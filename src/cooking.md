@@ -14,14 +14,11 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
 - Paring knife
 - Serrated knife
 - Wooden spoon
-- Peeler
 - Wooden cutting board (maple or bamboo)
 - Colander
 - Can opener
 - Collapsible bowls
-- Cleaver
 - Shears (Stainless steel)
-- Food chopper
 
 <a href="https://grimgrains.com/site/tools.html" target='_blank'>GrimGrains Tools</a>
 

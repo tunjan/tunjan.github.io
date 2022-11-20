@@ -7,8 +7,8 @@ is_draft: false
 
 ## Life of virtue
 
-A life of virtue is that in which to act morally is a pleasure in itself. And figuring out
-how to do so is fun.
+A life of virtue is that in which to act morally is a pleasure in itself. And
+figuring out how to do so is fun.
 
 ## Rules
 
@@ -18,5 +18,5 @@ how to do so is fun.
 - Do not over-schedule.
 - Only buy necessary products.
 - Value people for their character and wisdom, not their appearances.
-- Always make sure your freedom does not steal others freedom. (mobile phones are produced by enslaved Asian people)
-
+- Always make sure your freedom does not steal others freedom. (mobile phones
+  are produced by enslaved Asian people)

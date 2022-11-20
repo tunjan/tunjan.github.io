@@ -85,7 +85,11 @@ nav:
   folder: home
   rank: 1
 
-- name: books
+- name: reading
+  folder: directory
+  rank: 2
+
+- name: watching
   folder: directory
   rank: 2
 
@@ -185,7 +189,7 @@ nav:
   folder: knowledge
   rank: 2
 
-- name: reading
+- name: books
   folder: practical
   rank: 3
 

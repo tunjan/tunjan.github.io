@@ -4,6 +4,7 @@ published_date: "2022-08-08 21:53:03 +0000"
 layout: default.liquid
 is_draft: false
 ---
+These are reflections on my own experience.
 
 - You may not know what you like but at least you know what you do not like.
 - The less things you have, the less you have to worry about losing or storing them.

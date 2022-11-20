@@ -5,6 +5,10 @@ layout: default.liquid
 is_draft: false
 ---
 
+### 22/10/2022
+
+Started salsa classes
+
 ### 23/09/2022
 
 Moved to Wroclaw, Poland

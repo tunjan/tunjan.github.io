@@ -28,14 +28,15 @@ layout: default.liquid
 - **Meditations**: Marcus Aurelius
 - **You are not a Rock** Mark Freeman
 - **Walden**: Henry David Thoreau
-- **The mind illuminated**:
+- **The mind illuminated**: John Charles Yates
 - **On the shortness of life**: Seneca
 - **The Journals**: Henry David Thoreau
-- **On the Shortness of life**: Seneca
+
+## Earlier
+
+- **Animal Farm**: George Orwell
 - **The courage to be disliked**: Ichiro Kishimi
-
-## 2018
-
+- **Mistborn**: Bradon Sanderson
 - **Kingdom of ash**: Sarah J.Maas
 - **Tower of dawn**: Sarah J.Maas
 - **Queen of shadows**: Sarah J.Maas

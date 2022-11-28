@@ -7,10 +7,12 @@ data: {image: self.jpg, type: none}
 # Tunjan is a human being
 
 Tunjan is the pseudonym I have employed with the aim to keep egotism at bay.
-He is currently exploring new ways of living, challenging modern society values and building skills to contribute to ethical projects. 
 
-Most of his life has been experienced through the simulation of reality provided by consumer media, endless hours spent in video games and pointless tasks. Now he has made up his mind to live deliberately and learn from life what it has to teach him. And not when he comes to die, discover that he has not lived.
+It would certainly be nice to have a good description of his entity in written form. But I find no words to describe it, introductions feel too limiting and restrictive, and I feel like an impostor if I do not behave in accordance to it.
+His views change with time, and today he might not be the same as yesterday. That is why the page <a href=now.html>Recent</a> shows what he is up to as a way of knowing him better.
 
-Lately he has been interested in Greek philosophy, web development and volunteering. 
+<!-- He is currently exploring new ways of living, challenging modern society values and building skills to contribute to ethical projects.  -->
+
+He likes to rethink the values imposed by capitalism. Spend time doing mental experiments. Scape the confort zone. Learn languages. Developing creativity. Writing a journal. And generally, trying new things he sucks at. He loves sucking at things, because then, he can learn.
 
 

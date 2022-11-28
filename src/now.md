@@ -5,8 +5,14 @@ layout: default.liquid
 is_draft: false
 ---
 
-- Doing Erasmus exchange.
-- Developing social awareness.
+
+- (26/11/2022) Hiked <a href=poland.html>Śnieżka</a> mountain.
+- (24/11/2022) Joined art classes.
+- (22/11/2022) Joined salsa dance classes.
+- (29/10/2022) Anonymous for the Voiceless activism.
+- (23/09/2022) Erasmus exchange in Poland.
+- (15/08/2022) Month-long volunteering in <a href=moldova.html>Moldova</a> animal shelter.
+- (21/07/2022) Created this website.
 <!-- - Learning web development -->
 <!-- - Doing volunteering in Moldavia -->
 <!-- - Practicing Socratic Dialogue -->

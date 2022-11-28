@@ -74,7 +74,8 @@ nav ul li:hover {
 }
 
 nav ul li a#selected:before {
-    content: "\27A2  ";
+    font-weight: bold;
+    content: "\022D7  ";
 }
 
 main {

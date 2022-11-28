@@ -14,6 +14,7 @@ I always try to use as [few](./lifestyle.html) tools as possible when creating a
 - Paring knife
 - Serrated knife
 - Wooden spoon
+- Wooden flat
 - Wooden cutting board (maple or bamboo)
 - Colander
 - Can opener

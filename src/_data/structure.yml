@@ -77,6 +77,10 @@ nav:
   folder: personal
   rank: 3
 
+- name: poland
+  folder: travel
+  rank: 4
+
 - name: moldova
   folder: travel
   rank: 4

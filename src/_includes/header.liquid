@@ -2,19 +2,19 @@
   <img src="../media/logo.png" width ="80px">
 </a>
 
-<form id="form">
-  <input type="search" placeholder="search" id="search" autocomplete="off">
-  <input type="submit" id="submit">
-</form>
-
-<script>
-  const f = document.getElementById('form');
-  const s = document.getElementById('search');
-  function submitted(event) {
-        event.preventDefault();
-        const url = s.value + '.html';
-        const win = window.open(url, '_self');
-        win.focus();
-      }
-  f.addEventListener('submit', submitted);
-</script>
+{% comment %} <form id="form"> {% endcomment %}
+{% comment %}   <input type="search" placeholder="search" id="search" autocomplete="off"> {% endcomment %}
+{% comment %}   <input type="submit" id="submit"> {% endcomment %}
+{% comment %} </form> {% endcomment %}
+{% comment %}{% endcomment %}
+{% comment %} <script> {% endcomment %}
+{% comment %}   const f = document.getElementById('form'); {% endcomment %}
+{% comment %}   const s = document.getElementById('search'); {% endcomment %}
+{% comment %}   function submitted(event) { {% endcomment %}
+{% comment %}         event.preventDefault(); {% endcomment %}
+{% comment %}         const url = s.value + '.html'; {% endcomment %}
+{% comment %}         const win = window.open(url, '_self'); {% endcomment %}
+{% comment %}         win.focus(); {% endcomment %}
+{% comment %}       } {% endcomment %}
+{% comment %}   f.addEventListener('submit', submitted); {% endcomment %}
+{% comment %} </script> {% endcomment %}

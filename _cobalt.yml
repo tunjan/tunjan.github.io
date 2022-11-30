@@ -15,7 +15,7 @@ ignore:
 site:
   title: tunjan
   description: discription
-  base_url: https://tunjan.github.io
+  base_url: https://tunjan.codeberg.pages/
 
 default:
    is_draft: false

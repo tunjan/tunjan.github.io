@@ -33,10 +33,6 @@ nav:
   folder: personal
   rank: 3
 
-- name: beliefs
-  folder: personal
-  rank: 3
-
 - name: lifestyle
   folder: personal
   rank: 3
@@ -62,10 +58,6 @@ nav:
   rank: 4
 
 - name: compulsions
-  folder: lifestyle
-  rank: 4
-
-- name: habits
   folder: lifestyle
   rank: 4
 

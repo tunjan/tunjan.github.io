@@ -13,7 +13,10 @@
      <main>
      <div id="ToC"></div>
      {% if page.data.image %}
-      <img src="../media/{{page.data.image}}">
+       <figure>
+        <img alt="{{page.data.caption}}" src="../media/{{page.data.image}}">
+        <figcaption>{{page.data.caption}}</figcaption>
+       </figure>
      {% endif %}
         {{ page.content }}
       {% if page.data.type  %}

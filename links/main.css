@@ -1,30 +1,30 @@
+
 html {
-    font-size: 100%;
-    box-sizing: border-box;
+  font-size: 100%;
+  box-sizing: border-box;
 }
 
 * {
-    padding: 0;
-    margin: 0;
-    border: 0;
-    text-decoration: none;
-    font-family: inherit;
-    border-collapse: collapse;
-    color: #000;
-    /* outline: 2px dashed black; */
+  padding: 0;
+  margin: 0;
+  border: 0;
+  text-decoration: none;
+  font-family: inherit;
+  border-collapse: collapse;
+  color: #000;
 }
 
 *,
 *:before,
 *:after {
-    box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 body {
-    padding: 2em;
-    font-family: monospace;
-    font-size: 1.25em;
-    text-align: left;
+  padding: 2em;
+  font-family: Covette;
+  font-size: 1.25em;
+  text-align: left;
 }
 
 body > *,
@@ -32,104 +32,110 @@ body > * > *,
 main figure > *,
 main figure > div > *,
 main p {
-    margin-bottom: 1em;
+  margin-bottom: 30px;
 }
 
 header {
-    font-size: 2em;
-    float: left;
-    font-family: monospace;
-    margin-right: 1em;
+  font-size: 2em;
+  float: left;
+  font-family: monospace;
+  margin-right: 1em;
 }
 
 header input[id="submit"] {
-    display: none;
+  display: none;
 }
 
 header form input {
-    outline: none;
-    caret-color: transparent;
-    line-height: 2.5em;
-    text-align:center;
-    width: 80px;
-    font-size: 0.4em;
-    border: 2px solid black;
-    font-family: monospace;
+  outline: none;
+  caret-color: transparent;
+  line-height: 2.5em;
+  text-align: center;
+  width: 80px;
+  font-size: 0.4em;
+  border: 2px solid black;
+  font-family: monospace;
 }
 
 nav ul {
-    padding: 0;
-    float: left;
-    margin: 0 1.5em 1.5em 0;
+  padding: 0;
+  float: left;
+  margin: 0 1.5em 1.5em 0;
 }
 
 nav ul li {
-    list-style-type: none;
-    margin: 0.25em;
-    transition: all 0.25s;
+  list-style-type: none;
+  margin: 0.25em;
+  transition: all 0.25s;
 }
 
 nav ul li:hover {
-    transform: translateX(0.15em);
+  transform: translateX(0.15em);
 }
 
 nav ul li a#selected:before {
-    font-weight: bold;
-    content: "\022D7  ";
+  font-weight: bold;
+  content: "~  ";
 }
 
 main {
-    max-width: 40em;
-    clear: both;
-    float: left;
+  max-width: 40em;
+  clear: both;
+  float: left;
 }
 
 main li details {
-    /* margin: 1em; */
-    display: inline;
+  /* margin: 1em; */
+  display: inline;
+}
+
+main img,
+main svg {
+  max-width: 100%;
+  display: block;
+  margin: 0 0 30px;
 }
 
 details > summary {
-    /* list-style-type: none; */
-    margin-bottom: 1em;
-    font-weight: normal;
+  /* list-style-type: none; */
+  margin-bottom: 1em;
+  font-weight: normal;
 }
 
 main > figure:first-child img:first-child {
-    margin-left: -30px;
-    max-width: calc(100vw - 15px);
-    width: 800px;
+  margin-left: -30px;
+  max-width: calc(100vw - 15px);
+  width: 800px;
 }
 
-
 p > figure:first-child img:first-child {
-    margin-left: -30px;
-    max-width: calc(100vw - 15px);
-    width: 800px;
+  margin-left: -30px;
+  max-width: calc(100vw - 15px);
+  width: 800px;
 }
 
 main code {
-    background: #efefef;
-    border-radius: 1px;
-    padding: 1.5px;
-    font-size: 1em;
-    padding: 0.1em;
+  background: #efefef;
+  border-radius: 1px;
+  padding: 1.5px;
+  font-size: 1em;
+  padding: 0.1em;
 }
 
 main li {
-    margin: 0.5em 0;
+  margin: 0.5em 0;
 }
 
 #ToC ol {
-    border: 2px solid black;
-    display: inline-block;
-    padding: 1em;
+  border: 2px solid black;
+  display: inline-block;
+  padding: 1em;
 }
 
 #ToC ol li {
-    list-style-position: inside;
-    list-style-type: decimal-leading-zero;
-    text-decoration: underline;
+  list-style-position: inside;
+  list-style-type: decimal-leading-zero;
+  text-decoration: underline;
 }
 
 main details ul {
@@ -138,86 +144,89 @@ main details ul {
 
 main ul,
 ol {
-    padding-left: 2em;
-    margin-bottom: 2em;
+  padding-left: 2em;
+  /* margin-bottom: 2em; */
 }
 
-
 main h1 {
-    font-size: 2em;
+  font-size: 2em;
 }
 
 main h3 {
-    margin-bottom: 1.1em;
-    text-decoration: underline;
+  margin-bottom: 1.1em;
+  text-decoration: underline;
 }
 
 main q {
-    /* font-family: serif; */
-    font-style: italic;
-    display: block;
-    max-width: 20em;
+  /* font-family: serif; */
+  font-style: italic;
+  display: block;
+  max-width: 20em;
 }
 
 main cite {
-    display: block;
-    clear: both;
-    margin-bottom: 2em;
+  display: block;
+  clear: both;
+  margin-bottom: 2em;
 }
 
 main p {
-    line-height: 1.5em;
+  line-height: 1.5em;
 }
 
 main cite:before {
-    content: "— ";
+  content: "— ";
 }
 
 #ToC a:after {
-    content: "";
+  content: "";
 }
 #ToC a:before {
-    content: "";
+  content: "";
 }
 main a:before {
-    content: "{";
+  content: "{";
 }
 main a:after {
-    content: "}";
+  content: "}";
 }
 main a[href^="https://"]::before
 {
-    content: "[";
+  content: "[";
 }
 main a[href^="https://"]::after
 {
-    content: "]";
+  content: "]";
 }
 
 main a:hover {
-    background-color: #000;
-    color: #fff;
+  background-color: #000;
+  color: #fff;
 }
 
 main iframe {
-    width: 100%;
-    height: 480px;
+  width: 100%;
+  height: 480px;
 }
 main img,
 main svg {
-    max-width: 100%;
-    display: block;
-    margin: 0 0 30px;
+  max-width: 100%;
+  display: block;
+  margin: 0 0 30px;
 }
 
-
-
 footer {
-    border-top: 1px solid black;
-    line-height: 1.5em;
-    clear: both;
+  border-top: 1px solid black;
+  line-height: 1.5em;
+  clear: both;
 }
 
 footer hr {
-    margin-bottom: 1em;
+  margin-bottom: 1em;
 }
+
+@font-face {
+  font-family: "Covette";
+  src: url("../links/fonts/Alegreya/Alegreya-VariableFont_wght.ttf");
+}
+

@@ -1,7 +1,7 @@
 ---
 title: personal
 layout: default.liquid
-data: {image: self.jpg, type: none}
+data: {caption: Iceland, image: self.jpg, type: none}
 ---
 
 # Tunjan is a human being

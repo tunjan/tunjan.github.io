@@ -221,21 +221,3 @@ footer {
 footer hr {
     margin-bottom: 1em;
 }
-
-@media (prefers-color-scheme: dark) {
-    * {
-        background: #111;
-        color: white;
-    }
-
-    #ToC ol {
-        border-color: white;
-    }
-    footer {
-        border-top: 1px solid white;
-    }
-    header a img {
-        filter: invert(1);
-    }
-}
-

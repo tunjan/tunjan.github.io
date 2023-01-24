@@ -157,6 +157,10 @@ nav:
   folder: knowledge
   rank: 2
 
+- name: physics
+  folder: theoretical
+  rank: 3
+
 - name: health
   folder: theoretical
   rank: 3

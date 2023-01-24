@@ -12,6 +12,7 @@ html {
   font-family: inherit;
   border-collapse: collapse;
   color: #000;
+  background-color: #f7f7f7;
 }
 
 *,
@@ -23,7 +24,7 @@ html {
 body {
   padding: 2em;
   font-family: Covette, serif;
-  font-size: 1.25em;
+  font-size: 1em;
   text-align: left;
 }
 

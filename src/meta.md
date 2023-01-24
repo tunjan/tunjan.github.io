@@ -12,6 +12,10 @@ is_draft: false
 
 The navigation bar is generated through **liquid** code in the `src/_include/nav.liquid` directory.
 
+## Future changes
+
+1. Translate the page into Spanish (Español) and Japanese (日本語).
+2. Create a better database structure.
   
 
   

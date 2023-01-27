@@ -6,7 +6,7 @@ is_draft: false
 ---
 
 
-- (20/12/2022) <a href=poland.html#h2>Morskie Oko </a>
+- (20/12/2022) <a href=poland.html#h1>Morskie Oko </a>
 - (26/11/2022) Hiked <a href=poland.html>Śnieżka</a> mountain.
 - (24/11/2022) Joined art classes.
 - (22/11/2022) Joined salsa dance classes.

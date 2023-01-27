@@ -30,3 +30,5 @@ May this case serve to demonstrate how big tech companies keep producing bad sof
 - **Color Scheme**: gruvbox
 - **Input Method**: fcitx
 - **Browser**: librewolf
+
+![environment](../media/desktop.jpg)

@@ -3,13 +3,13 @@ title: poland
 layout: default.liquid
 ---
 
-# Sniezka
+## Sniezka
 
 ![Karpacz Town](../media/karpaczTown.jpg)
 ![Branch Water Drop](../media/invertedDrop.jpg)
 ![Snow Woods](../media/snowWoods.jpg)
 
-# Morskie Oko
+## Morskie Oko
 
 ![Full view](../media/morskie.jpg)
 ![Myself](../media/morskie1.jpg)

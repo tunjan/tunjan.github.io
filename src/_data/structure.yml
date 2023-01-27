@@ -133,21 +133,21 @@ nav:
   folder: directory
   rank: 2
 
-- name: projects
-  folder: home
-  rank: 1
+# - name: projects
+  # folder: home
+  # rank: 1
 
-- name: research
-  folder: projects
-  rank: 2 
+# - name: research
+  # folder: projects
+  # rank: 2 
 
-- name: solarpunk
-  folder: projects
-  rank: 2
+# - name: solarpunk
+  # folder: projects
+  # rank: 2
 
-- name: development
-  folder: projects
-  rank: 2
+# - name: development
+  # folder: projects
+  # rank: 2
 
 - name: knowledge
   folder: home
@@ -173,17 +173,17 @@ nav:
   folder: health
   rank: 4
 
-- name: philosophy 
-  folder: theoretical
-  rank: 3
+# - name: philosophy 
+  # folder: theoretical
+  # rank: 3
 
-- name: materialism
-  folder: philosophy
-  rank: 3
+# - name: materialism
+  # folder: philosophy
+  # rank: 3
 
-- name: ethics
-  folder: philosophy
-  rank: 3
+# - name: ethics
+  # folder: philosophy
+  # rank: 3
  
 - name: practical
   folder: knowledge

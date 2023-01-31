@@ -7,14 +7,11 @@ is_draft: false
 
 ## Nutrition
 
-  Not long since adopting a **[vegan](/src/nutrition.html)** diet, I noticed much more sustained levels of energy and increased lean body mass, I felt my body working as an interrelated organism which given the right amounts and type of fuel, performs at the highest level. No more bloating after meals, no sleepiness after lunch. 
-  Thus, I have aligned my food intake with **nature** demands, only eating as much as suffices my body for good health, and consuming from fresh produce when available
-
-  The decision regarding transitioning into veganism has to do mainly with **moral** insights after watching [Dominion](https://watchdominion.org), and the desire to avoid [harmful actions](/src/philosophy.html).
+  Not long since learning about the cruelty and sufferment involved in the <a href="https://watchdominion.org/"> Food industry </a>, I decided to completely eliminate my intake of food coming from non-human animals. Since then I have not looked back, my body feels better, and most important, my choices have prevented numerous unnecesary deaths.
 
 ## Materialism
 
-Learning to live with **less** is one of the principles guiding my decisions in life. Reflecting, after being away from home n the number of things I owned,
+Learning to live with **less** is one of the guiding principles. Reflecting, after being away from home n the number of things I owned,
 it became obvious that the more things I had the more things I needed. And in turn, the less time I could devote to reflect on and enjoy substantial matters of life. 
 
 The realization was that by **consuming**, one learns to avoid the pain of thinking deep thoughts, so the mind is always occupied with looking for the next product or expecting the next advertisement to capture one's attention. All that while generating a necessity to earn more capital and keep wasting time.

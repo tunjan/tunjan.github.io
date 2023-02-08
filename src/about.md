@@ -10,7 +10,7 @@ data: {caption: logo, image: tunjan.png, type: none}
 
 This **wiki** aims to be a personal logging system of, <a href="knowledge.html">knowledge</a>, projects and studies. Making a few but deliberate improvements over time to each page.
 
-The implementation of the website attempts to make addition and edition of content as easy and systematic as possible. Thus, avoiding putting off its growth and daily refinement.
+The implementation of the website attempts to make addition and edition of content as easy and systematic as possible. Thus, avoiding putting off its growth and refinement.
 
 The files are compiled through the <a target="_blank" href="https://cobalt-org.github.io">Cobalt</a> static site generator.
 It takes everything in the `src` folder and builds it into the `site` directory.

@@ -29,10 +29,6 @@ nav:
   folder: personal
   rank: 3
 
-- name: logs
-  folder: personal
-  rank: 3
-
 - name: lifestyle
   folder: personal
   rank: 3
@@ -54,10 +50,6 @@ nav:
   rank: 5
 
 - name: rules
-  folder: lifestyle
-  rank: 4
-
-- name: compulsions
   folder: lifestyle
   rank: 4
 

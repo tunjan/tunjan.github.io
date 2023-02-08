@@ -7,7 +7,7 @@ is_draft: false
 
 ## Nutrition
 
-  Not long since learning about the cruelty and sufferment involved in the <a href="https://watchdominion.org/"> Food industry </a>, I decided to completely eliminate my intake of food coming from non-human animals. Since then I have not looked back, my body feels better, and most important, my choices have prevented numerous unnecesary deaths.
+  Not long since learning about the cruelty and sufferment involved in the <a href="https://watchdominion.org/">Food industry</a>, I decided to completely eliminate my intake of food coming from non-human animals, and adopt a vegan diet. Since then I have not looked back, my body feels better, and most important, my choices have prevented numerous unnecesary deaths.
 
 ## Materialism
 

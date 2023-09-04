@@ -3,7 +3,6 @@ nav:
 - name: home
   folder: 
   rank: 0
-  type: portal
 
 - name: about
   folder: home

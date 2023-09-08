@@ -4,6 +4,15 @@ nav:
   folder: 
   rank: 0
 
-- name: about
+# - name: about
+#   folder: home
+#   rank: 1
+#
+- name: tools
   folder: home
   rank: 1
+
+- name: books
+  folder: home
+  rank: 1
+

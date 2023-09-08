@@ -5,6 +5,7 @@ source: "./src"
 template_extensions:
   - md
   - liquid
+
 ignore:
   - links
   - media

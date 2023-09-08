@@ -109,7 +109,7 @@ details > summary {
 main > figure:first-child img:first-child {
   margin-left: -2em;
   max-width: calc(100vw - 15px);
-  width: 800px;
+  width: 600px;
   border: 2px solid black;
   border-left: none;
 }

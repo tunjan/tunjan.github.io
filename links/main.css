@@ -24,7 +24,7 @@ html {
 body {
   padding: 2em;
   font-family: Covette, serif;
-  font-size: 1em;
+  font-size: 1.25em;
   text-align: left;
 }
 
@@ -75,11 +75,15 @@ nav ul li {
 
 nav ul li:hover {
   transform: translateX(0.15em);
+  font-weight: bold;
 }
 
 nav ul li a#selected:before {
-  font-weight: bold;
-  content: "~  ";
+  content: " [ ";
+}
+
+nav ul li a#selected:after {
+  content: " ] ";
 }
 
 main {

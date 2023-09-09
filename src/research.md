@@ -1,6 +1,7 @@
 ---
 title: research
 layout: default.liquid
+data: {updated: "9 September 2023"}
 ---
 
 - Combination of Hemp Oil, Calamari Oil, and Broccoli positively associated with a 52% decrease in pain intensity. [Source](https://pubmed.ncbi.nlm.nih.gov/37375558/) 

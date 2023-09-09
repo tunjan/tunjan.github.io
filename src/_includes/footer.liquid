@@ -1,9 +1,9 @@
 <hr />
 <span style='float:right'>
-  {%- if page.is_draft != true -%}
-    Built on {{ site.time | date: "%-d %B %Y" }}
+  {%- if page.data.updated -%}
+    Updated on {{ page.data.updated }}
   {%- endif -%}
 <a href='https://codeberg.org/tunjan/pages'> [Codeberg]</a>
 <br/>
 </span> 
-<a rel="me" href="https://scicomm.xyz/@tunjan">Tunjan</a> © 2023 — BY-NC-SA 4.0 
+<a rel="me" href="https://scicomm.xyz/@tunjan">Tunjan</a> © 2023 

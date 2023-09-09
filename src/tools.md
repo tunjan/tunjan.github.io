@@ -1,6 +1,7 @@
 ---
 title: tools
 layout: default.liquid
+data: {updated: "7 September 2023"}
 ---
 
 - PDF ToC Generator [pdf.tocgen](https://github.com/Krasjet/pdf.tocgen) 

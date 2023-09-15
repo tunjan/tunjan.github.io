@@ -20,3 +20,7 @@ nav:
   folder: home
   rank: 1
 
+- name: sites
+  folder: home
+  rank: 1
+

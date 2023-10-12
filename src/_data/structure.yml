@@ -4,10 +4,10 @@ nav:
   folder: 
   rank: 0
 
-# - name: about
-#   folder: home
-#   rank: 1
-#
+- name: about
+  folder: home
+  rank: 1
+
 - name: tools
   folder: home
   rank: 1
@@ -23,4 +23,9 @@ nav:
 - name: sites
   folder: home
   rank: 1
+
+- name: commands 
+  folder: home
+  rank: 1
+
 

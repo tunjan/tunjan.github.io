@@ -102,6 +102,7 @@ main svg {
   max-width: 100%;
   display: block;
   margin: 0 0 30px;
+  border: 2px solid black;
 }
 
 details > summary {

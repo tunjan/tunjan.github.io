@@ -11,4 +11,3 @@ data: {updated: "02 October 2023"}
 - Scientific Python Guide [QuantEcon](https://python-programming.quantecon.org)
 - Scientific Papers Database [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
 
-    <img src="sample_plot.png" alt="Sample Plot">

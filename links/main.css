@@ -92,6 +92,8 @@ main {
   float: left;
 }
 
+main pre { overflow:auto;background:#efefef;font-size:90%;font-family:monospace;padding:10px;margin-bottom:30px }
+
 main li details {
   /* margin: 1em; */
   display: inline;
@@ -126,6 +128,7 @@ p > figure:first-child img:first-child {
 }
 
 main code {
+  white-space:pre;
   background: #efefef;
   border-radius: 1px;
   padding: 1.5px;

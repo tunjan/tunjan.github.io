@@ -1,92 +1,35 @@
-# src/plot_generator.py
-import matplotlib.pyplot as plt
-import mpld3
 import numpy as np
+from scipy.integrate import odeint
 
+from bokeh.plotting import figure, show
 
-from matplotlib.tri import (CubicTriInterpolator, Triangulation,
-                            UniformTriRefiner)
+sigma = 10
+rho = 28
+beta = 8.0/3
+theta = 3 * np.pi / 4
 
+def lorenz(xyz, t):
+    x, y, z = xyz
+    x_dot = sigma * (y - x)
+    y_dot = x * rho - x * z - y
+    z_dot = x * y - beta* z
+    return [x_dot, y_dot, z_dot]
 
-plt.style.use('Solarize_Light2')
+initial = (-10, -7, 35)
+t = np.arange(0, 100, 0.006)
 
+solution = odeint(lorenz, initial, t)
 
-# ----------------------------------------------------------------------------
-# Electrical potential of a dipole
-# ----------------------------------------------------------------------------
-def dipole_potential(x, y):
-    """The electric dipole potential V, at position *x*, *y*."""
-    r_sq = x**2 + y**2
-    theta = np.arctan2(y, x)
-    z = np.cos(theta)/r_sq
-    return (np.max(z) - z) / (np.max(z) - np.min(z))
+x = solution[:, 0]
+y = solution[:, 1]
+z = solution[:, 2]
+xprime = np.cos(theta) * x - np.sin(theta) * y
 
+colors = ["#C6DBEF", "#9ECAE1", "#6BAED6", "#4292C6", "#2171B5", "#08519C", "#08306B"]
 
-# ----------------------------------------------------------------------------
-# Creating a Triangulation
-# ----------------------------------------------------------------------------
-# First create the x and y coordinates of the points.
-n_angles = 30
-n_radii = 10
-min_radius = 0.2
-radii = np.linspace(min_radius, 0.95, n_radii)
+p = figure(title="Lorenz attractor example", background_fill_color="#fafafa")
 
-angles = np.linspace(0, 2 * np.pi, n_angles, endpoint=False)
-angles = np.repeat(angles[..., np.newaxis], n_radii, axis=1)
-angles[:, 1::2] += np.pi / n_angles
+p.multi_line(np.array_split(xprime, 7), np.array_split(z, 7),
+             line_color=colors, line_alpha=0.8, line_width=1.5)
 
-x = (radii*np.cos(angles)).flatten()
-y = (radii*np.sin(angles)).flatten()
-V = dipole_potential(x, y)
-
-# Create the Triangulation; no triangles specified so Delaunay triangulation
-# created.
-triang = Triangulation(x, y)
-
-# Mask off unwanted triangles.
-triang.set_mask(np.hypot(x[triang.triangles].mean(axis=1),
-                         y[triang.triangles].mean(axis=1))
-                < min_radius)
-
-# ----------------------------------------------------------------------------
-# Refine data - interpolates the electrical potential V
-# ----------------------------------------------------------------------------
-refiner = UniformTriRefiner(triang)
-tri_refi, z_test_refi = refiner.refine_field(V, subdiv=3)
-
-# ----------------------------------------------------------------------------
-# Computes the electrical field (Ex, Ey) as gradient of electrical potential
-# ----------------------------------------------------------------------------
-tci = CubicTriInterpolator(triang, -V)
-# Gradient requested here at the mesh nodes but could be anywhere else:
-(Ex, Ey) = tci.gradient(triang.x, triang.y)
-E_norm = np.sqrt(Ex**2 + Ey**2)
-
-# ----------------------------------------------------------------------------
-# Plot the triangulation, the potential iso-contours and the vector field
-# ----------------------------------------------------------------------------
-fig, ax = plt.subplots()
-ax.set_aspect('equal')
-# Enforce the margins, and enlarge them to give room for the vectors.
-ax.use_sticky_edges = False
-ax.margins(0.07)
-
-ax.triplot(triang, color='0.8')
-
-levels = np.arange(0., 1., 0.01)
-ax.tricontour(tri_refi, z_test_refi, levels=levels, cmap='hot',
-              linewidths=[2.0, 1.0, 1.0, 1.0])
-# Plots direction of the electrical vector field
-ax.quiver(triang.x, triang.y, Ex/E_norm, Ey/E_norm,
-          units='xy', scale=10., zorder=3, color='blue',
-          width=0.007, headwidth=3., headlength=4.)
-
-ax.set_title('Gradient plot: an electrical dipole')
-
-interactive_plot = mpld3.fig_to_html(fig)
-
-    # Save the interactive plot as an HTML file
-with open('../media/interactive_plot.html', 'w') as f:
-    f.write(interactive_plot)
-
-# generate_interactive_plot()
+show(p)

@@ -20,3 +20,7 @@ site:
 
 default:
    is_draft: false
+
+syntax_highlight:
+  theme: "InspiredGitHub"
+  enabled: false
